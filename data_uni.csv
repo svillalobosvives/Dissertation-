@@ -1,9 +1,9 @@
-Course,UCAS,25 Above,Disability,Ethnicity,Gender,British,English native Language,Parent He attendance,Polar 4 Score,SLC,Care Leaver,Student Visa,Refugee,London Permanent Residence,UCAS Points,English,Maths,A Levels,Btec,Previous work,Bursary,Attendance,AWM year 1,AWM year 2,AWM year 3,Overall AWM,Progression,First Sit,Second Sit,Fails,No Submissions,Late Submission,Pass,Re Takes,desertion
+Course,UCAS,25 Above,Disability,Ethnicity,Gender,British,English native Language,Parent He attendance,Polar_4_Score,SLC,Care Leaver,Student Visa,Refugee,London Permanent Residence,UCAS Points,English,Maths,A Levels,Btec,Previous work,Bursary,Attendance,AWM year 1,AWM year 2,AWM year 3,Overall AWM,Progression,First Sit,Second Sit,Fails,No Submissions,Late Submission,Pass,Re Takes,desertion
 BA Business Manangement Enterpreneurship and Innovation,no,no,no,Asian,Male,no,no,yes,4.0,no,no,yes,no,yes,98.0,5.0,4.0,yes,no,yes,no,86,85,58.0,43.0,62.0,yes,3,3.0,0,2,2,100.0,yes,no
 BA Business Management,no,no,no,White,Male,no,no,yes,2.0,yes,no,no,no,no,101.0,5.0,5.0,yes,no,yes,yes,55,40,32.0,,36.0,no,1,2.0,5,3,0,83.33333333333333,no,yes
 BA Business Management Enterpreneurship and Innovation,no,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,129.0,4.0,4.0,yes,no,yes,no,57,41,,,41.0,yes,6,0.0,0,0,0,100.0,no,yes
 BA Business Management,no,yes,no,White,Female,no,no,no,3.0,yes,no,no,no,yes,110.0,9.0,8.0,yes,no,yes,no,48,41,43.0,,42.0,yes,6,0.0,0,0,0,100.0,no,yes
-BA Business Management Enterpreneurship and Innovation,no,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,130.0,6.0,5.0,yes,no,yes,no,83,55,49.0,59.0,54.333333333333336,yes,4,2.0,0,2,0,100.0,no,no
+BA Business Management Enterpreneurship and Innovation,no,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,130.0,6.0,5.0,yes,no,yes,no,83,55,49.0,59.0,54.333333333333336,yes,4,2.0,0,2,0,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,yes,no,no,Asian,Male,yes,yes,yes,3.0,yes,no,no,no,yes,112.0,6.0,4.0,no,yes,no,no,71,46,46.0,43.0,45.0,yes,3,3.0,0,0,1,100.0,no,no
 BA Business Management Marketing,yes,no,no,White,Male,no,yes,no,5.0,no,no,yes,no,no,89.0,6.0,5.0,yes,no,no,no,96,78,70.0,79.0,75.66666666666667,yes,4,2.0,0,0,2,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,yes,yes,no,4.0,yes,no,no,no,yes,103.0,4.0,5.0,yes,no,no,no,67,43,85.0,61.0,63.0,yes,3,3.0,0,3,0,100.0,no,no
@@ -17,24 +17,24 @@ BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,no,y
 BA Business Management International Business,yes,no,no,White,Female,yes,yes,yes,4.0,yes,no,no,no,no,96.0,4.0,5.0,no,yes,no,no,47,32,,,32.0,no,3,0.0,3,0,1,50.0,no,yes
 Ba Business Management Finance,yes,yes,no,White,Male,yes,yes,yes,1.0,yes,no,no,no,no,82.0,,,no,no,yes,no,97,46,55.0,66.0,55.666666666666664,yes,4,2.0,0,0,2,100.0,no,no
 BA Business Management,yes,no,no,White,Male,yes,yes,no,2.0,yes,no,no,no,no,117.0,,,no,yes,yes,yes,99,68,63.0,82.0,71.0,yes,3,3.0,0,0,1,100.0,no,no
-BA Business Management,yes,no,no,Asian,Female,yes,yes,no,3.0,no,no,no,no,no,153.0,9.0,8.0,no,no,yes,no,57,49,38.0,,43.5,no,3,3.0,2,0,0,33.333333333333336,no,yes
-BA Business Management International Business,yes,no,no,Asian,Male,no,yes,no,3.0,no,no,yes,no,no,,,,yes,no,yes,no,53,43,36.0,,39.5,no,4,2.0,2,0,3,33.333333333333336,no,yes
+BA Business Management,yes,no,no,Asian,Female,yes,yes,no,2.0,no,no,no,no,no,153.0,9.0,8.0,no,no,yes,no,57,49,58.0,,55.0,yes,6,0.0,0,0,0,100.0,no,no
+BA Business Management International Business,yes,no,no,Asian,Male,no,yes,no,2.0,no,no,yes,no,no,,,,yes,no,yes,no,53,43,36.0,,39.5,no,4,2.0,2,0,3,33.333333333333336,no,yes
 BA Business Management International Business,yes,no,no,Black/Black British African,Male,,yes,yes,2.0,yes,no,no,no,no,93.0,8.0,5.0,yes,no,yes,yes,60,41,52.0,,46.5,yes,3,3.0,0,0,0,100.0,no,yes
 Ba Business Management Finance,yes,yes,yes,Black/Black British African,Female,,yes,no,4.0,no,no,no,no,no,116.0,,,yes,no,yes,yes,83,60,76.0,46.0,60.666666666666664,yes,4,2.0,0,0,0,100.0,yes,no
 BA Business Management Enterpreneurship and Innovation,yes,yes,no,White,Female,,yes,yes,2.0,yes,no,no,no,no,133.0,7.0,4.0,yes,no,yes,yes,80,77,58.0,57.0,64.0,yes,3,3.0,0,2,0,100.0,no,no
 BA Business Management International Business,yes,no,no,Asian,Male,no,yes,no,,yes,no,yes,no,no,121.0,5.0,6.0,no,no,no,no,91,62,61.0,44.0,55.666666666666664,yes,4,2.0,0,0,0,100.0,no,no
 BA Business Management,yes,no,no,Black/Black British African,Male,,yes,no,1.0,yes,no,no,no,no,96.0,4.0,5.0,yes,yes,yes,yes,50,43,37.0,,40.0,no,3,3.0,2,2,0,33.333333333333336,no,yes
-BA Business Management,no,yes,no,Asian,Female,,yes,no,5.0,yes,no,no,no,yes,80.0,5.0,5.0,yes,no,no,no,58,43,34.0,,38.5,no,3,1.0,3,2,1,50.0,no,yes
+BA Business Management,no,yes,no,Asian,Female,,yes,no,1.0,yes,no,no,no,yes,80.0,5.0,5.0,yes,no,no,no,58,43,34.0,,38.5,no,3,1.0,3,2,1,50.0,no,yes
 BA Business Management,no,yes,no,Asian,Male,no,yes,no,,no,no,yes,no,no,129.0,5.0,5.0,yes,no,yes,no,76,84,54.0,70.0,69.33333333333333,yes,4,2.0,0,0,0,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,no,no,no,Asian,Male,no,yes,yes,1.0,yes,no,yes,no,no,125.0,3.0,4.0,yes,no,yes,no,43,58,35.0,,46.5,no,2,4.0,5,3,0,83.33333333333333,no,yes
 BA Business Management Enterpreneurship and Innovation,no,no,no,Asian,Female,yes,yes,yes,3.0,yes,yes,no,no,no,104.0,6.0,7.0,yes,no,no,yes,55,40,77.0,53.0,56.666666666666664,yes,3,3.0,0,0,2,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,no,no,no,Asian,Female,yes,yes,yes,3.0,no,,no,no,yes,128.0,4.0,4.0,no,yes,no,no,70,41,60.0,52.0,51.0,yes,3,3.0,0,2,2,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,no,yes,no,Asian,Male,yes,yes,,4.0,yes,no,no,no,yes,80.0,4.0,4.0,yes,no,yes,no,44,62,30.0,,46.0,no,3,3.0,4,1,0,66.66666666666667,no,yes
 BA Business Management Enterpreneurship and Innovation,no,no,no,White,Male,yes,yes,,4.0,yes,no,no,no,no,102.0,3.0,4.0,yes,yes,yes,no,41,41,38.0,,39.5,no,4,0.0,3,1,0,50.0,no,yes
-BA Business Management Enterpreneurship and Innovation,no,yes,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,123.0,3.0,4.0,no,yes,no,no,100,71,43.0,34.0,49.333333333333336,no,4,2.0,5,1,1,83.33333333333333,no,no
+BA Business Management Enterpreneurship and Innovation,no,yes,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,123.0,3.0,4.0,no,yes,no,no,100,71,43.0,34.0,49.333333333333336,no,4,2.0,5,1,1,83.33333333333333,no,no
 BA Business Management Enterpreneurship and Innovation,no,yes,no,Asian,Male,no,yes,,3.0,no,no,yes,no,no,120.0,,,yes,no,no,no,69,64,65.0,63.0,64.0,yes,3,3.0,0,1,1,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,no,yes,no,Black/Black British African,Male,,yes,yes,5.0,no,no,no,no,yes,144.0,4.0,4.0,no,yes,yes,no,45,74,35.0,,54.5,no,3,3.0,2,0,1,33.333333333333336,no,yes
-BA Business Management Enterpreneurship and Innovation,no,no,no,Other Black Background,Female,yes,yes,no,4.0,yes,no,no,no,yes,160.0,4.0,5.0,no,yes,yes,no,48,65,31.0,,48.0,no,6,0.0,5,0,0,83.33333333333333,no,yes
+BA Business Management Enterpreneurship and Innovation,no,no,no,Black/Black British African,Female,yes,yes,no,2.0,yes,no,no,no,yes,160.0,4.0,5.0,no,yes,yes,no,48,65,31.0,,48.0,no,6,0.0,5,0,0,83.33333333333333,no,yes
 BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,no,no,no,4.0,yes,no,no,no,yes,122.0,3.0,2.0,no,yes,no,no,95,43,43.0,42.0,42.666666666666664,yes,6,0.0,0,0,0,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,no,no,no,3.0,no,no,yes,no,no,,8.0,7.0,yes,no,no,no,89,75,53.0,65.0,64.33333333333333,yes,3,3.0,0,0,2,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,yes,no,no,Asian,Male,no,no,no,5.0,yes,no,yes,no,no,152.0,,,yes,no,no,no,69,59,83.0,35.0,59.0,no,4,2.0,4,2,1,66.66666666666667,yes,no
@@ -60,25 +60,25 @@ Ba Business Management Finance,yes,yes,no,White,Male,yes,yes,yes,4.0,yes,,no,no,
 Ba Business Management Finance,yes,no,no,,Male,yes,yes,yes,5.0,yes,,no,no,yes,168.0,5.0,4.0,no,yes,yes,no,77,57,83.0,62.0,67.33333333333333,yes,3,3.0,0,1,2,100.0,no,no
 Ba Business Management Finance,yes,yes,no,,Female,yes,no,yes,2.0,yes,,no,no,yes,88.0,4.0,4.0,yes,no,yes,yes,93,45,56.0,72.0,57.666666666666664,yes,4,2.0,0,2,2,100.0,no,no
 Ba Business Management Finance,yes,yes,no,,Male,yes,yes,no,3.0,no,,no,no,yes,107.0,5.0,5.0,yes,no,yes,no,98,73,84.0,43.0,66.66666666666667,yes,3,3.0,0,2,2,100.0,no,no
-Ba Business Management Finance,yes,no,no,Other ethnic background,Female,yes,no,no,5.0,yes,no,no,no,yes,111.0,7.0,6.0,yes,no,yes,no,70,43,55.0,,49.0,yes,3,3.0,0,2,0,100.0,no,yes
+Ba Business Management Finance,yes,no,no,Other ethnic background,Female,yes,no,no,1.0,yes,no,no,no,yes,111.0,7.0,6.0,yes,no,yes,yes,70,43,55.0,,49.0,yes,3,3.0,0,2,0,100.0,no,yes
 Ba Business Management Finance,yes,no,no,,Male,yes,yes,no,4.0,no,no,no,no,yes,168.0,5.0,6.0,,no,yes,no,97,58,83.0,41.0,60.666666666666664,yes,5,1.0,0,1,0,100.0,no,no
 Ba Business Management Finance,yes,no,no,,Male,no,no,no,1.0,no,no,no,no,no,122.0,7.0,5.0,,no,yes,yes,92,51,50.0,80.0,60.333333333333336,yes,4,2.0,0,1,1,100.0,no,no
 Ba Business Management Finance,no,yes,no,White,Male,no,no,yes,3.0,no,no,no,no,no,116.0,8.0,9.0,,no,no,no,93,81,40.0,80.0,67.0,yes,3,3.0,0,4,1,100.0,yes,no
 Ba Business Management Finance,no,yes,no,Asian,Female,no,no,no,2.0,no,no,no,no,no,107.0,4.0,4.0,,no,no,yes,54,58,32.0,,45.0,no,3,3.0,3,1,0,50.0,no,yes
 Ba Business Management Finance,no,yes,no,Other ethnic background,Male,no,no,yes,4.0,no,no,no,no,no,153.0,9.0,8.0,no,no,yes,no,72,49,75.0,75.0,66.33333333333333,yes,3,3.0,0,1,0,100.0,no,no
 Ba Business Management Finance,no,yes,no,Other ethnic background,Female,no,no,yes,5.0,yes,no,no,no,no,110.0,,,,no,no,no,95,61,41.0,31.0,44.333333333333336,no,3,3.0,5,1,1,83.33333333333333,no,no
-Ba Business Management Finance,no,yes,no,White,Male,no,no,no,4.0,yes,no,no,no,yes,93.0,8.0,5.0,yes,no,yes,no,42,65,35.0,,50.0,no,3,3.0,3,0,1,50.0,no,yes
+Ba Business Management Finance,no,yes,no,White,Male,no,no,no,2.0,yes,no,no,no,yes,93.0,8.0,5.0,yes,no,yes,no,42,65,35.0,,50.0,no,3,3.0,3,0,1,50.0,no,yes
 Ba Business Management Finance,no,yes,no,White,Male,no,no,yes,1.0,no,no,no,no,yes,116.0,4.0,4.0,yes,no,yes,no,44,43,37.0,,40.0,no,3,3.0,4,1,1,66.66666666666667,no,yes
 Ba Business Management Finance,no,yes,no,Asian,Male,no,no,yes,1.0,no,no,yes,no,no,133.0,7.0,4.0,yes,no,no,no,49,47,32.0,,39.5,no,3,2.0,2,3,2,33.333333333333336,no,yes
-Ba Business Management Finance,no,no,no,Asian,Male,yes,no,yes,4.0,yes,no,no,no,yes,121.0,5.0,6.0,no,,yes,no,81,52,75.0,58.0,61.666666666666664,yes,3,3.0,0,3,1,100.0,no,no
+Ba Business Management Finance,no,no,no,White,Male,yes,no,yes,4.0,yes,no,no,no,yes,121.0,5.0,6.0,no,,yes,no,81,52,75.0,58.0,61.666666666666664,yes,3,3.0,0,3,1,100.0,no,no
 Ba Business Management Finance,no,yes,no,Asian,Male,yes,no,yes,1.0,yes,no,no,no,yes,96.0,4.0,5.0,yes,yes,yes,no,46,40,37.0,,38.5,no,2,0.0,2,0,0,33.333333333333336,no,yes
 Ba Business Management Finance,no,no,no,Asian,Male,yes,no,no,2.0,yes,no,no,no,yes,80.0,5.0,5.0,yes,,yes,yes,53,49,33.0,,41.0,no,3,3.0,4,0,2,66.66666666666667,no,yes
 Ba Business Management Finance,no,yes,no,Asian,Male,no,no,no,3.0,no,no,no,no,no,115.0,5.0,5.0,yes,,yes,no,60,69,81.0,36.0,62.0,no,3,3.0,5,3,0,83.33333333333333,yes,no
 Ba Business Management Finance,no,no,no,Asian,Male,no,no,no,,no,no,yes,no,no,125.0,3.0,4.0,yes,,no,no,69,58,42.0,78.0,59.333333333333336,yes,4,2.0,0,0,1,100.0,no,no
 Ba Business Management Finance,no,yes,no,Asian,Male,yes,no,yes,4.0,no,no,no,no,yes,104.0,6.0,7.0,yes,,no,no,50,42,42.0,,42.0,yes,4,2.0,0,1,0,100.0,no,yes
-Ba Business Management Finance,no,yes,no,Asian,Female,yes,no,yes,5.0,yes,no,no,no,yes,128.0,4.0,4.0,no,yes,yes,no,85,72,62.0,44.0,59.333333333333336,yes,4,2.0,0,1,1,100.0,yes,no
+Ba Business Management Finance,no,yes,no,White,Female,yes,no,yes,5.0,yes,no,no,no,yes,128.0,4.0,4.0,no,yes,yes,no,85,72,62.0,44.0,59.333333333333336,yes,4,2.0,0,1,1,100.0,yes,no
 Ba Business Management Finance,no,yes,no,Black/Black British African,Male,no,no,,4.0,yes,no,no,no,no,80.0,4.0,4.0,yes,,no,no,65,60,51.0,71.0,60.666666666666664,yes,5,1.0,0,0,1,100.0,no,no
-Ba Business Management Finance,no,yes,no,Mixed White and Asian,Female,no,no,yes,,no,no,no,no,no,102.0,3.0,4.0,yes,yes,no,no,90,44,64.0,65.0,57.666666666666664,yes,6,0.0,0,0,1,100.0,no,no
+Ba Business Management Finance,no,yes,no,White,Female,no,no,yes,,no,no,no,no,no,102.0,3.0,4.0,yes,yes,no,no,90,44,64.0,65.0,57.666666666666664,yes,6,0.0,0,0,1,100.0,no,no
 Ba Business Management Finance,no,yes,no,Asian,Male,no,no,yes,1.0,no,no,yes,no,no,123.0,3.0,4.0,no,yes,no,no,59,42,35.0,,38.5,no,4,0.0,5,1,0,83.33333333333333,no,yes
 Ba Business Management Finance,no,yes,no,White,Male,no,no,yes,4.0,yes,no,no,no,yes,120.0,,,yes,,no,,58,44,32.0,,38.0,no,1,2.0,3,4,2,50.0,yes,yes
 Ba Business Management Finance,no,no,no,Black/Black British African,Male,yes,no,yes,,yes,no,no,no,yes,144.0,4.0,4.0,no,yes,yes,,73,76,79.0,67.0,74.0,yes,3,3.0,0,0,1,100.0,no,no
@@ -125,10 +125,10 @@ BA Business Management,yes,no,no,Black/Black British African,Male,yes,yes,no,1.0
 BA Business Management,yes,no,no,Other ethnic background,Male,yes,no,yes,5.0,yes,no,no,no,yes,80.0,5.0,5.0,yes,,no,no,90,69,46.0,48.0,54.333333333333336,yes,3,3.0,0,1,2,100.0,no,no
 BA Business Management,yes,no,no,Black/Black British African,Female,no,no,no,,no,no,yes,no,no,135.0,5.0,5.0,yes,,yes,no,94,76,78.0,46.0,66.66666666666667,yes,5,1.0,0,4,3,100.0,no,no
 BA Business Management,yes,no,no,White,Male,no,no,yes,1.0,yes,no,yes,no,no,125.0,3.0,4.0,yes,,yes,no,59,58,36.0,,47.0,no,3,3.0,5,0,2,83.33333333333333,no,yes
-BA Business Management,yes,no,no,Black/Black British African,Female,no,no,no,3.0,yes,yes,no,no,no,104.0,6.0,7.0,yes,no,yes,yes,58,50,33.0,,41.5,no,4,2.0,5,1,0,83.33333333333333,no,yes
+BA Business Management,yes,no,no,Black/Black British African,Female,no,no,no,2.0,yes,yes,no,no,no,104.0,6.0,7.0,yes,no,yes,yes,58,50,33.0,,41.5,no,4,2.0,5,1,0,83.33333333333333,no,yes
 BA Business Management,yes,no,no,Asian,Male,yes,no,yes,3.0,no,,no,no,yes,128.0,4.0,4.0,no,yes,no,no,81,77,53.0,83.0,71.0,yes,6,0.0,0,0,1,100.0,no,no
 BA Business Management,yes,no,no,White,Male,yes,no,no,4.0,yes,no,no,no,yes,80.0,4.0,4.0,yes,,no,no,95,48,83.0,73.0,68.0,yes,6,0.0,0,0,1,100.0,no,no
-BA Business Management,yes,no,no,White,Male,yes,yes,no,4.0,yes,no,no,no,no,102.0,3.0,4.0,yes,yes,yes,no,55,46,36.0,,41.0,no,3,3.0,2,2,1,33.333333333333336,no,yes
+BA Business Management,yes,no,no,White,Male,yes,yes,no,2.0,yes,no,no,no,no,102.0,3.0,4.0,yes,yes,yes,no,55,46,36.0,,41.0,no,3,3.0,2,2,1,33.333333333333336,no,yes
 BA Business Management,yes,no,no,Other ethnic background,Male,yes,no,yes,4.0,yes,no,no,no,yes,123.0,3.0,4.0,no,yes,no,,69,44,40.0,41.0,41.666666666666664,yes,4,2.0,0,0,0,100.0,no,no
 BA Business Management,yes,no,yes,White,Male,no,no,no,3.0,no,no,yes,no,no,120.0,,,yes,,no,yes,60,69,65.0,80.0,71.33333333333333,yes,3,3.0,0,2,0,100.0,no,no
 BA Business Management,yes,no,no,White,Male,no,no,yes,5.0,no,no,no,no,yes,144.0,4.0,4.0,no,yes,no,,85,72,61.0,61.0,64.66666666666667,yes,4,2.0,0,0,1,100.0,no,no
@@ -138,11 +138,11 @@ BA Business Management,yes,no,no,White,Female,no,no,no,3.0,no,,yes,no,no,,8.0,7.
 BA Business Management,yes,no,yes,White,Male,no,no,no,5.0,yes,,yes,no,no,152.0,,,yes,no,no,yes,86,61,51.0,72.0,61.333333333333336,yes,3,3.0,0,1,0,100.0,no,no
 BA Business Management,yes,no,no,White,Female,yes,yes,no,1.0,yes,,no,no,no,168.0,8.0,7.0,yes,no,yes,yes,95,60,66.0,72.0,66.0,yes,3,3.0,0,0,2,100.0,no,no
 BA Business Management,yes,no,no,Black/Black British African,Male,no,yes,no,2.0,no,,no,yes,no,108.0,3.0,2.0,yes,no,no,yes,41,31,,,31.0,no,1,1.0,4,4,3,66.66666666666667,yes,yes
-BA Business Management,yes,no,no,Asian,Female,yes,yes,yes,4.0,yes,no,no,no,yes,120.0,5.0,4.0,yes,,yes,,64,59,50.0,52.0,53.666666666666664,yes,6,0.0,0,0,0,100.0,no,no
+BA Business Management,yes,no,no,White,Female,yes,yes,yes,4.0,yes,no,no,no,yes,120.0,5.0,4.0,yes,,yes,,64,59,50.0,52.0,53.666666666666664,yes,6,0.0,0,0,0,100.0,no,no
 BA Business Management,yes,no,no,Asian,Female,no,no,no,3.0,no,no,yes,no,no,128.0,,,yes,,yes,,73,80,50.0,44.0,58.0,yes,5,1.0,0,0,0,100.0,no,no
-BA Business Management,yes,no,no,Asian,Male,yes,yes,no,4.0,yes,no,no,no,yes,101.0,5.0,5.0,no,yes,no,no,85,60,53.0,73.0,62.0,yes,3,3.0,0,1,2,100.0,no,no
+BA Business Management,yes,no,no,White,Male,yes,yes,no,4.0,yes,no,no,no,yes,101.0,5.0,5.0,no,yes,no,no,85,60,53.0,73.0,62.0,yes,3,3.0,0,1,2,100.0,no,no
 BA Business Management,yes,yes,no,Black/Black British African,Female,no,yes,no,,no,no,yes,no,no,,,,yes,,yes,no,61,59,78.0,56.0,64.33333333333333,yes,6,0.0,0,0,1,100.0,no,no
-BA Business Management,yes,no,no,Asian,Male,yes,no,yes,4.0,yes,no,no,no,yes,96.0,5.0,5.0,yes,,no,no,63,52,57.0,43.0,50.666666666666664,yes,6,0.0,0,0,1,100.0,no,no
+BA Business Management,yes,no,no,White,Male,yes,no,yes,4.0,yes,no,no,no,yes,96.0,5.0,5.0,yes,,no,no,63,52,57.0,43.0,50.666666666666664,yes,6,0.0,0,0,1,100.0,no,no
 BA Business Management,yes,no,no,Asian,Female,yes,yes,no,3.0,yes,no,no,no,no,96.0,4.0,3.0,yes,,yes,no,47,50,,,50.0,yes,1,5.0,0,3,2,100.0,no,yes
 BA Business Management,yes,no,no,White,Male,yes,no,yes,5.0,yes,no,no,no,yes,122.0,3.0,,no,,yes,no,71,42,55.0,64.0,53.666666666666664,yes,5,1.0,0,1,0,100.0,no,no
 BA Business Management,yes,no,no,White,Female,,yes,yes,1.0,yes,no,no,no,no,106.0,6.0,5.0,yes,,no,no,67,44,69.0,52.0,55.0,yes,3,3.0,0,0,0,100.0,no,no
@@ -156,16 +156,16 @@ BA Business Management,yes,no,no,Other ethnic background,Male,no,no,yes,,no,,yes
 BA Business Management,yes,no,no,Other ethnic background,Male,,yes,no,3.0,yes,,no,no,yes,84.0,4.0,3.0,no,yes,yes,,89,54,49.0,75.0,59.333333333333336,yes,3,3.0,0,0,0,100.0,no,no
 BA Business Management,yes,no,no,Asian,Female,,yes,no,3.0,yes,,no,no,yes,84.0,5.0,4.0,no,yes,yes,no,86,49,78.0,47.0,58.0,yes,4,2.0,0,3,2,100.0,yes,no
 BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,no,no,no,4.0,yes,,no,no,yes,82.0,4.0,3.0,yes,no,no,,100,50,70.0,45.0,55.0,yes,4,2.0,0,0,1,100.0,no,no
-BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Female,yes,yes,no,4.0,yes,no,no,no,yes,144.0,4.0,4.0,no,yes,yes,no,57,62,,,62.0,yes,2,4.0,0,2,1,100.0,no,yes
+BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Female,yes,yes,no,2.0,yes,no,no,no,yes,144.0,4.0,4.0,no,yes,yes,no,57,62,,,62.0,yes,2,4.0,0,2,1,100.0,no,yes
 BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,yes,yes,,1.0,yes,no,no,no,no,72.0,5.0,5.0,yes,,yes,yes,79,47,59.0,73.0,59.666666666666664,yes,3,3.0,0,2,1,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,yes,no,yes,White,Female,yes,yes,,2.0,yes,no,no,no,yes,104.0,4.0,3.0,yes,yes,yes,yes,44,31,,,31.0,no,4,1.0,1,1,1,16.666666666666668,no,yes
-BA Business Management Enterpreneurship and Innovation,yes,no,yes,Asian,Male,yes,no,yes,5.0,yes,no,no,no,yes,80.0,7.0,6.0,yes,,no,yes,97,80,81.0,52.0,71.0,yes,5,1.0,0,0,0,100.0,no,no
+BA Business Management Enterpreneurship and Innovation,yes,no,yes,White,Male,yes,no,yes,5.0,yes,no,no,no,yes,80.0,7.0,6.0,yes,,no,yes,97,80,81.0,52.0,71.0,yes,5,1.0,0,0,0,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,yes,no,yes,White,Male,yes,yes,yes,5.0,yes,no,no,no,no,128.0,5.0,5.0,no,yes,yes,yes,82,51,75.0,84.0,70.0,yes,3,3.0,0,3,1,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,yes,no,no,Asian,Male,yes,no,no,,no,no,no,no,no,96.0,5.0,5.0,yes,,yes,,67,54,50.0,42.0,48.666666666666664,yes,3,3.0,0,0,0,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,yes,no,no,Black/Black British African,Female,no,no,no,,no,no,yes,no,no,,,,yes,no,no,no,90,54,60.0,55.0,56.333333333333336,yes,3,3.0,0,0,2,100.0,no,no
-BA Business Management Enterpreneurship and Innovation,yes,no,no,Asian,Male,yes,yes,no,4.0,yes,no,no,no,yes,96.0,6.0,4.0,yes,no,no,,51,35,,,35.0,no,5,,4,0,1,66.66666666666667,no,yes
+BA Business Management Enterpreneurship and Innovation,yes,no,no,Asian,Male,yes,yes,no,2.0,yes,no,no,no,yes,96.0,6.0,4.0,yes,no,no,,51,35,,,35.0,no,5,,4,0,1,66.66666666666667,no,yes
 BA Business Management Enterpreneurship and Innovation,yes,no,no,Black/Black British African,Male,,yes,yes,5.0,yes,no,no,no,yes,114.0,3.0,7.0,yes,yes,yes,no,99,80,58.0,77.0,71.66666666666667,yes,4,2.0,0,3,2,100.0,no,no
-BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,yes,yes,no,5.0,yes,no,no,no,yes,96.0,6.0,5.0,yes,no,yes,no,65,43,,,43.0,yes,1,5.0,0,3,0,100.0,no,yes
+BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,yes,yes,no,1.0,yes,no,no,no,yes,96.0,6.0,5.0,yes,no,yes,no,65,43,,,43.0,yes,1,5.0,0,3,0,100.0,no,yes
 BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,yes,yes,yes,3.0,yes,no,no,no,yes,146.0,4.0,4.0,no,yes,no,no,70,73,57.0,78.0,69.33333333333333,yes,4,2.0,0,3,0,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,yes,yes,no,3.0,yes,no,no,no,yes,129.0,4.0,6.0,no,yes,no,no,54,42,45.0,78.0,55.0,yes,3,3.0,0,2,1,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Female,yes,yes,yes,1.0,yes,no,no,no,yes,120.0,7.0,7.0,no,yes,no,yes,91,56,62.0,64.0,60.666666666666664,yes,6,0.0,0,0,0,100.0,no,no
@@ -196,9 +196,9 @@ ba,yes,no,yes,Black/Black British African,Female,no,yes,no,5.0,yes,no,no,no,no,9
 ba,yes,no,yes,White,Female,no,yes,no,3.0,no,no,yes,no,no,,5.0,5.0,no,no,no,yes,95,46,74.0,60.0,60.0,yes,6,0.0,0,0,1,100.0,no,no
 ba,yes,no,no,Black/Black British African,Male,yes,yes,no,2.0,no,no,no,no,yes,80.0,4.0,6.0,yes,no,yes,yes,90,69,80.0,58.0,69.0,yes,6,0.0,0,0,1,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,no,4.0,yes,no,no,no,yes,102.0,5.0,3.0,no,yes,yes,no,99,47,62.0,58.0,55.666666666666664,yes,3,3.0,0,1,2,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,no,88.0,3.0,4.0,yes,,no,no,81,46,73.0,74.0,64.33333333333333,yes,4,2.0,0,0,1,100.0,no,no
+ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,no,88.0,3.0,4.0,yes,,no,no,81,46,73.0,74.0,64.33333333333333,yes,4,2.0,0,0,1,100.0,no,no
 ba,yes,no,no,White,Male,no,no,,4.0,yes,no,no,no,no,93.0,,,no,yes,no,no,41,42,34.0,,38.0,no,2,0.0,5,0,0,83.33333333333333,no,yes
-ba,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,96.0,6.0,4.0,no,no,no,,60,73,40.0,57.0,56.666666666666664,yes,4,2.0,0,1,0,100.0,no,no
+ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,96.0,6.0,4.0,no,no,no,,60,73,40.0,57.0,56.666666666666664,yes,4,2.0,0,1,0,100.0,no,no
 ba,yes,no,no,Black/Black British African,Male,no,no,,,no,no,yes,no,no,,,,no,no,yes,no,83,54,71.0,55.0,60.0,yes,3,3.0,0,4,1,100.0,yes,no
 ba,yes,no,no,White,Female,yes,yes,yes,1.0,yes,no,no,no,yes,80.0,5.0,4.0,no,yes,yes,yes,72,48,71.0,63.0,60.666666666666664,yes,5,1.0,0,1,1,100.0,no,no
 ba,yes,no,yes,White,Male,no,no,yes,,no,,yes,no,,,,,yes,no,yes,yes,86,46,55.0,37.0,46.0,no,4,2.0,5,0,0,83.33333333333333,no,no
@@ -213,7 +213,7 @@ ba,yes,no,no,Asian,Female,yes,yes,no,3.0,yes,no,no,no,yes,162.0,6.0,6.0,no,yes,n
 ba,yes,no,no,White,Male,yes,no,no,4.0,yes,no,no,no,no,84.0,5.0,5.0,no,yes,yes,no,60,42,56.0,63.0,53.666666666666664,yes,5,1.0,0,4,0,100.0,no,no
 ba,yes,no,no,Other ethnic background,Female,no,no,no,,yes,no,yes,no,no,104.0,,,yes,no,no,no,66,45,65.0,79.0,63.0,yes,3,3.0,0,2,1,100.0,no,no
 ba,yes,no,no,White,Male,no,no,no,5.0,yes,no,no,no,yes,110.0,,,no,no,yes,no,92,78,76.0,52.0,68.66666666666667,yes,3,3.0,0,1,0,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,no,no,5.0,yes,no,no,no,yes,96.0,4.0,4.0,no,yes,yes,no,67,83,70.0,42.0,65.0,yes,3,3.0,0,0,1,100.0,no,no
+ba,yes,no,no,White,Male,yes,no,no,5.0,yes,no,no,no,yes,96.0,4.0,4.0,no,yes,yes,no,67,83,70.0,42.0,65.0,yes,3,3.0,0,0,1,100.0,no,no
 ba,yes,no,no,Asian,Male,yes,no,no,3.0,yes,no,no,no,yes,96.0,4.0,5.0,yes,,no,no,75,41,79.0,35.0,51.666666666666664,no,4,2.0,5,3,1,83.33333333333333,yes,no
 ba,yes,no,no,White,Female,yes,,yes,4.0,yes,no,no,no,no,96.0,5.0,5.0,yes,no,yes,no,47,30,,,30.0,no,2,1.0,1,1,2,16.666666666666668,no,yes
 ba,yes,no,no,White,Male,yes,,yes,4.0,yes,no,no,no,yes,114.0,3.0,4.0,no,yes,yes,no,71,50,55.0,66.0,57.0,yes,3,3.0,0,0,1,100.0,no,no
@@ -222,7 +222,7 @@ ba,yes,no,no,White,Male,yes,yes,yes,1.0,yes,no,no,no,yes,104.0,5.0,4.0,yes,no,ye
 ba,yes,no,no,White,Female,yes,yes,yes,4.0,yes,no,no,no,yes,91.0,4.0,4.0,yes,no,no,,63,73,55.0,59.0,62.333333333333336,yes,3,3.0,0,1,1,100.0,no,no
 ba,yes,no,no,White,Male,yes,yes,yes,5.0,yes,no,no,no,yes,98.0,5.0,4.0,no,yes,yes,,79,79,80.0,60.0,73.0,yes,3,3.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,no,4.0,yes,,no,no,yes,84.0,6.0,4.0,yes,no,yes,,83,47,74.0,40.0,53.666666666666664,yes,3,3.0,0,2,0,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,yes,no,4.0,yes,,no,no,yes,136.0,4.0,5.0,no,yes,no,no,83,57,64.0,70.0,63.666666666666664,yes,3,3.0,0,1,2,100.0,no,no
+ba,yes,no,no,White,Male,yes,yes,no,4.0,yes,,no,no,yes,136.0,4.0,5.0,no,yes,no,no,83,57,64.0,70.0,63.666666666666664,yes,3,3.0,0,1,2,100.0,no,no
 ba,yes,no,no,Black/Black British African,Male,,yes,yes,4.0,yes,,no,no,yes,91.0,4.0,4.0,no,yes,yes,no,69,53,48.0,77.0,59.333333333333336,yes,3,3.0,0,1,2,100.0,no,no
 ba,yes,no,no,White,Female,no,no,no,5.0,yes,,no,no,yes,92.0,,,no,no,yes,no,60,84,55.0,60.0,66.33333333333333,yes,5,1.0,0,2,2,100.0,no,no
 ba,yes,no,no,White,Male,yes,no,yes,5.0,yes,,no,no,yes,88.0,4.0,6.0,no,yes,yes,no,68,52,76.0,46.0,58.0,yes,5,1.0,0,1,1,100.0,no,no
@@ -230,7 +230,7 @@ ba,yes,no,no,Black/Black British African,Female,no,no,no,5.0,no,,no,yes,yes,118.
 ba,yes,no,no,White,Male,no,no,no,2.0,yes,,no,no,no,101.0,5.0,5.0,yes,no,yes,yes,42,40,42.0,65.0,49.0,yes,1,5.0,0,4,0,100.0,yes,no
 ba,yes,no,no,White,Male,yes,no,yes,5.0,yes,,no,no,no,103.0,5.0,4.0,no,yes,yes,no,42,41,81.0,76.0,66.0,yes,3,3.0,0,2,2,100.0,no,no
 ba,yes,no,no,White,Male,yes,yes,no,2.0,yes,,no,no,yes,114.0,5.0,6.0,no,yes,no,yes,74,68,49.0,80.0,65.66666666666667,yes,3,3.0,0,2,2,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,no,yes,5.0,yes,no,no,no,yes,98.0,4.0,4.0,no,yes,yes,,85,42,64.0,82.0,62.666666666666664,yes,6,0.0,0,0,0,100.0,no,no
+ba,yes,no,no,White,Male,yes,no,yes,5.0,yes,no,no,no,yes,98.0,4.0,4.0,no,yes,yes,,85,42,64.0,82.0,62.666666666666664,yes,6,0.0,0,0,0,100.0,no,no
 ba,yes,yes,no,Other ethnic background,Female,yes,no,yes,4.0,yes,yes,no,no,yes,103.0,,,no,yes,yes,yes,68,77,75.0,50.0,67.33333333333333,yes,6,0.0,0,0,1,100.0,no,no
 ba,yes,no,no,Other ethnic background,Male,no,no,no,,no,no,no,no,no,99.0,5.0,4.0,yes,no,yes,no,67,70,72.0,55.0,65.66666666666667,yes,6,0.0,0,0,1,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,no,5.0,yes,no,no,no,yes,111.0,8.0,5.0,yes,no,yes,,93,49,48.0,84.0,60.333333333333336,yes,4,2.0,0,1,1,100.0,no,no
@@ -243,7 +243,7 @@ ba,yes,no,yes,White,Male,yes,yes,yes,4.0,yes,no,no,no,no,106.0,2.0,5.0,no,yes,ye
 ba,yes,no,no,White,Female,no,no,no,3.0,yes,no,no,no,no,103.0,5.0,6.0,yes,,yes,no,60,57,59.0,40.0,52.0,yes,3,3.0,0,4,1,100.0,yes,no
 ba,yes,no,no,Other ethnic background,Male,yes,no,no,4.0,yes,no,no,no,yes,112.0,5.0,4.0,no,yes,no,no,94,71,81.0,50.0,67.33333333333333,yes,3,3.0,0,2,1,100.0,yes,no
 ba,yes,no,no,White,Female,no,yes,yes,1.0,yes,no,no,no,yes,168.0,6.0,7.0,yes,no,yes,,87,55,55.0,51.0,53.0,yes,6,0.0,0,0,1,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,95.0,5.0,4.0,no,yes,yes,no,94,59,75.0,50.0,61.333333333333336,yes,3,3.0,0,0,0,100.0,no,no
+ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,95.0,5.0,4.0,no,yes,yes,no,94,59,75.0,50.0,61.333333333333336,yes,3,3.0,0,0,0,100.0,no,no
 ba,yes,no,no,Other ethnic background,Female,yes,yes,no,4.0,yes,no,no,no,yes,100.0,4.0,3.0,no,yes,yes,no,94,63,79.0,82.0,74.66666666666667,yes,3,3.0,0,0,1,100.0,no,no
 ba,yes,no,no,Black/Black British African,Female,yes,yes,no,3.0,yes,,no,no,no,113.0,5.0,3.0,no,yes,no,no,65,66,54.0,67.0,62.333333333333336,yes,3,3.0,0,5,0,100.0,yes,no
 ba,yes,no,no,White,Male,no,no,yes,3.0,no,,no,no,no,98.0,,8.0,yes,no,no,,70,44,61.0,41.0,48.666666666666664,yes,3,3.0,0,4,0,100.0,yes,no
@@ -251,15 +251,15 @@ ba,yes,no,no,Asian,Female,no,no,yes,,no,,yes,no,no,100.0,6.0,5.0,no,no,no,no,97,
 ba,yes,no,yes,White,Male,no,no,no,3.0,yes,,no,no,yes,95.0,2.0,2.0,no,yes,no,yes,89,72,40.0,76.0,62.666666666666664,yes,5,1.0,0,1,1,100.0,no,no
 ba,yes,no,no,Other ethnic background,Female,no,yes,no,,no,,yes,no,no,114.0,,,no,no,no,no,68,76,57.0,84.0,72.33333333333333,yes,4,2.0,0,0,1,100.0,no,no
 ba,yes,no,no,Asian,Female,no,no,no,,no,,yes,no,no,106.0,4.0,4.0,yes,no,no,no,66,58,75.0,55.0,62.666666666666664,yes,4,2.0,0,0,0,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,yes,yes,5.0,no,,no,no,yes,104.0,5.0,6.0,yes,no,no,no,96,49,57.0,69.0,58.333333333333336,yes,4,2.0,0,4,1,100.0,no,no
+ba,yes,no,no,White,Male,yes,yes,yes,5.0,no,,no,no,yes,104.0,5.0,6.0,yes,no,no,no,96,49,57.0,69.0,58.333333333333336,yes,4,2.0,0,4,1,100.0,no,no
 ba,yes,no,no,White,Female,no,no,yes,5.0,yes,,no,no,no,107.0,6.0,7.0,no,yes,yes,no,51,64,38.0,,51.0,no,6,0.0,2,0,1,33.333333333333336,no,yes
 ba,yes,no,no,White,Male,yes,yes,no,3.0,yes,,no,no,no,103.0,5.0,6.0,no,yes,yes,,89,67,58.0,60.0,61.666666666666664,yes,4,2.0,0,0,1,100.0,no,no
 ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,,no,no,no,100.0,5.0,4.0,yes,no,yes,no,66,73,77.0,42.0,64.0,yes,5,1.0,0,0,0,100.0,yes,no
 ba,yes,no,no,Other ethnic background,Female,no,no,yes,3.0,yes,no,no,no,no,113.0,3.0,6.0,no,yes,no,no,74,45,77.0,49.0,57.0,yes,5,1.0,0,3,1,100.0,no,no
 ba,yes,no,no,White,Male,no,no,yes,2.0,yes,no,no,no,yes,118.0,5.0,5.0,yes,no,yes,yes,84,81,69.0,76.0,75.33333333333333,yes,5,1.0,0,0,1,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,no,5.0,yes,no,no,no,no,102.0,4.0,4.0,yes,no,yes,,87,77,85.0,66.0,76.0,yes,5,1.0,0,2,2,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,no,yes,5.0,yes,no,no,no,yes,108.0,4.0,4.0,no,yes,yes,no,85,72,62.0,44.0,59.333333333333336,yes,4,2.0,0,1,1,100.0,yes,no
-ba,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,109.0,4.0,4.0,yes,no,yes,no,90,48,42.0,45.0,45.0,yes,4,2.0,0,1,1,100.0,no,no
+ba,yes,no,no,White,Male,yes,no,yes,5.0,yes,no,no,no,yes,108.0,4.0,4.0,no,yes,yes,no,85,72,62.0,44.0,59.333333333333336,yes,4,2.0,0,1,1,100.0,yes,no
+ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,109.0,4.0,4.0,yes,no,yes,no,90,48,42.0,45.0,45.0,yes,4,2.0,0,1,1,100.0,no,no
 ba,yes,no,no,White,Male,no,yes,yes,1.0,yes,,no,no,yes,155.0,5.0,5.0,yes,no,yes,,97,48,59.0,63.0,56.666666666666664,yes,3,3.0,0,1,2,100.0,no,no
 ba,yes,no,no,White,Male,no,no,no,,no,,no,no,no,104.0,6.0,5.0,yes,no,yes,no,63,54,45.0,50.0,49.666666666666664,yes,4,2.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Male,no,no,no,4.0,yes,,no,no,no,101.0,6.0,6.0,no,yes,no,no,85,78,74.0,43.0,65.0,yes,3,3.0,0,2,0,100.0,no,no
@@ -275,7 +275,7 @@ ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,106.0,4.0,4.0,yes,,no,,
 ba,yes,no,no,White,Male,yes,yes,yes,5.0,yes,no,no,no,no,103.0,5.0,5.0,yes,,no,,66,58,48.0,34.0,46.666666666666664,no,5,1.0,3,1,1,50.0,no,no
 ba,yes,no,no,Asian,Female,yes,yes,yes,3.0,yes,no,no,no,no,108.0,7.0,6.0,yes,,no,,91,71,71.0,52.0,64.66666666666667,yes,6,0.0,0,1,1,100.0,no,no
 ba,yes,no,no,Other ethnic background,Male,no,no,yes,2.0,yes,no,no,no,no,96.0,5.0,6.0,no,yes,no,yes,77,42,44.0,43.0,43.0,yes,5,1.0,0,0,1,100.0,no,no
-ba,yes,no,no,Asian,Female,yes,no,yes,5.0,yes,no,no,no,yes,99.0,7.0,5.0,yes,,yes,,87,63,56.0,82.0,67.0,yes,3,3.0,0,2,0,100.0,no,no
+ba,yes,no,no,White,Female,yes,no,yes,5.0,yes,no,no,no,yes,99.0,7.0,5.0,yes,,yes,,87,63,56.0,82.0,67.0,yes,3,3.0,0,2,0,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,yes,5.0,yes,no,no,no,no,125.0,8.0,9.0,yes,no,yes,,91,82,77.0,50.0,69.66666666666667,yes,5,1.0,0,3,0,100.0,yes,no
 ba,yes,no,no,White,Female,yes,yes,no,1.0,yes,no,no,no,no,102.0,4.0,4.0,yes,no,yes,yes,88,74,76.0,51.0,67.0,yes,6,0.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Male,no,no,no,4.0,yes,no,no,no,yes,104.0,8.0,4.0,no,no,yes,,84,61,50.0,44.0,51.666666666666664,yes,3,3.0,0,1,0,100.0,no,no
@@ -287,7 +287,7 @@ ba,yes,no,no,Other ethnic background,Female,yes,yes,no,3.0,yes,no,no,no,yes,109.
 ba,yes,no,no,Black/Black British African,Female,yes,yes,no,1.0,yes,no,no,no,no,102.0,7.0,4.0,yes,no,yes,yes,66,62,73.0,44.0,59.666666666666664,yes,3,3.0,0,5,3,100.0,yes,no
 ba,yes,no,no,White,Female,no,no,no,4.0,yes,no,no,no,no,105.0,6.0,6.0,yes,no,no,,94,76,64.0,57.0,65.66666666666667,yes,6,0.0,0,0,0,100.0,no,no
 ba,yes,no,yes,White,Male,no,no,yes,3.0,yes,no,no,,yes,120.0,4.0,6.0,yes,no,yes,yes,44,47,33.0,,40.0,no,2,4.0,4,2,2,66.66666666666667,no,yes
-ba,yes,no,no,Asian,Female,yes,yes,yes,4.0,yes,no,no,no,yes,119.0,6.0,5.0,yes,no,no,,99,66,67.0,56.0,63.0,yes,3,3.0,0,3,0,100.0,no,no
+ba,yes,no,no,White,Female,yes,yes,yes,4.0,yes,no,no,no,yes,119.0,6.0,5.0,yes,no,no,,99,66,67.0,56.0,63.0,yes,3,3.0,0,3,0,100.0,no,no
 ba,yes,no,no,White,Male,yes,yes,no,2.0,yes,no,,,no,106.0,5.0,5.0,yes,no,,yes,67,63,87.0,42.0,63.333333333333336,yes,3,3.0,0,1,0,100.0,no,no
 ba,yes,no,no,Asian,Female,yes,no,no,3.0,yes,no,no,no,no,109.0,5.0,4.0,,yes,no,,92,83,67.0,55.0,68.33333333333333,yes,6,0.0,0,1,0,100.0,no,no
 ba,yes,no,yes,Black/Black British African,Female,yes,yes,no,2.0,yes,no,no,no,no,107.0,5.0,6.0,yes,no,yes,yes,90,82,45.0,79.0,68.66666666666667,yes,6,0.0,0,0,0,100.0,no,no
@@ -302,8 +302,8 @@ BA Business Manangement Enterpreneurship and Innovation,no,no,no,Asian,Male,yes,
 BA Business Management,no,no,no,White,Male,no,no,no,4.0,no,no,no,no,yes,117.0,5.0,6.0,yes,no,yes,,42,66,35.0,,50.5,no,2,4.0,2,2,0,33.333333333333336,no,yes
 BA Business Management Enterpreneurship and Innovation,no,no,no,Asian,Male,yes,yes,yes,4.0,no,no,no,no,yes,88.0,5.0,4.0,yes,yes,yes,,55,45,38.0,,41.5,no,6,0.0,2,0,0,33.333333333333336,no,yes
 BA Business Management,no,yes,no,White,Female,no,no,yes,3.0,yes,no,no,no,yes,114.0,5.0,5.0,no,no,yes,,70,49,40.0,,44.5,yes,2,4.0,0,2,2,100.0,no,yes
-BA Business Management Enterpreneurship and Innovation,no,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,108.0,4.0,6.0,no,no,yes,,89,84,43.0,41.0,56.0,yes,3,3.0,0,0,1,100.0,no,no
-BA Business Management Enterpreneurship and Innovation,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,130.0,6.0,5.0,yes,no,yes,,74,47,53.0,52.0,50.666666666666664,yes,6,0.0,0,0,0,100.0,no,no
+BA Business Management Enterpreneurship and Innovation,no,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,108.0,4.0,6.0,no,no,yes,,89,84,43.0,41.0,56.0,yes,3,3.0,0,0,1,100.0,no,no
+BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,130.0,6.0,5.0,yes,no,yes,,74,47,53.0,52.0,50.666666666666664,yes,6,0.0,0,0,0,100.0,no,no
 BA Business Management (Marketing),yes,no,no,White,Male,yes,yes,yes,3.0,yes,no,no,no,yes,112.0,6.0,4.0,no,yes,no,no,94,46,81.0,48.0,58.333333333333336,yes,6,0.0,0,0,1,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,no,yes,no,5.0,no,no,yes,no,no,89.0,6.0,5.0,yes,no,no,no,80,44,82.0,46.0,57.333333333333336,yes,4,2.0,0,0,0,100.0,yes,no
 BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,yes,yes,no,4.0,yes,no,no,no,yes,103.0,4.0,5.0,yes,no,no,no,79,55,85.0,56.0,65.33333333333333,yes,6,0.0,0,0,0,100.0,no,no
@@ -324,29 +324,29 @@ BA Business Management Enterpreneurship and Innovation,yes,yes,no,White,Female,y
 BA Business Management International Business,yes,no,no,Asian,Male,yes,yes,yes,2.0,yes,,no,no,no,133.0,7.0,4.0,yes,no,yes,yes,78,49,83.0,75.0,69.0,yes,4,2.0,0,0,0,100.0,no,no
 BA Business Management,yes,no,no,Black/Black British African,Male,no,yes,no,1.0,yes,no,yes,no,no,121.0,5.0,6.0,no,no,no,,48,30,,,30.0,no,5,,4,0,1,66.66666666666667,no,yes
 ba,no,yes,no,Asian,Female,yes,yes,no,1.0,yes,no,no,no,no,96.0,4.0,5.0,yes,yes,yes,yes,60,44,,,44.0,yes,3,3.0,0,4,1,100.0,yes,yes
-ba,no,yes,no,Asian,Male,yes,yes,yes,5.0,yes,,no,no,yes,80.0,5.0,5.0,yes,no,no,,96,74,80.0,47.0,67.0,yes,5,1.0,0,4,0,100.0,no,no
+ba,no,yes,no,White,Male,yes,yes,yes,5.0,yes,,no,no,yes,80.0,5.0,5.0,yes,no,no,,96,74,80.0,47.0,67.0,yes,5,1.0,0,4,0,100.0,no,no
 ba,no,no,no,Asian,Male,no,yes,,3.0,no,no,yes,no,no,,5.0,5.0,yes,no,yes,,46,48,35.0,,41.5,no,2,4.0,2,0,1,33.333333333333336,no,yes
 ba,no,no,no,Asian,Female,no,yes,yes,,yes,no,yes,no,no,125.0,3.0,4.0,yes,no,no,,92,77,62.0,52.0,63.666666666666664,yes,3,3.0,0,2,0,100.0,no,no
 ba,no,no,no,Asian,Female,yes,yes,yes,3.0,yes,yes,no,no,no,104.0,6.0,7.0,yes,no,yes,yes,54,46,44.0,,45.0,yes,6,0.0,0,0,0,100.0,no,yes
 ba,no,yes,no,Asian,Male,yes,yes,yes,3.0,no,,no,no,yes,128.0,4.0,4.0,no,yes,yes,,43,43,36.0,,39.5,no,4,2.0,2,1,0,33.333333333333336,no,yes
 ba,no,no,no,White,Male,yes,yes,,4.0,yes,no,no,no,yes,80.0,4.0,4.0,yes,no,yes,no,57,59,38.0,,48.5,no,2,4.0,5,4,0,83.33333333333333,yes,yes
-ba,no,yes,no,Asian,Male,yes,yes,no,4.0,yes,no,no,no,no,102.0,3.0,4.0,yes,yes,yes,no,47,36,,,36.0,no,2,2.0,3,0,1,50.0,no,yes
-ba,no,yes,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,123.0,3.0,4.0,no,yes,no,no,85,75,57.0,44.0,58.666666666666664,yes,3,3.0,0,0,2,100.0,yes,no
+ba,no,yes,no,Asian,Male,yes,yes,no,2.0,yes,no,no,no,no,102.0,3.0,4.0,yes,yes,yes,no,47,36,,,36.0,no,2,2.0,3,0,1,50.0,no,yes
+ba,no,yes,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,123.0,3.0,4.0,no,yes,no,no,85,75,57.0,44.0,58.666666666666664,yes,3,3.0,0,0,2,100.0,yes,no
 ba,no,yes,no,Black/Black British African,Male,no,yes,no,3.0,no,no,yes,no,no,120.0,,,yes,no,yes,no,53,44,41.0,,42.5,yes,2,4.0,0,0,0,100.0,no,yes
-ba,no,no,no,Other Black Background,Female,yes,yes,yes,5.0,no,no,no,no,yes,144.0,4.0,4.0,no,yes,no,no,56,44,35.0,,39.5,no,1,1.0,3,4,2,50.0,yes,yes
+ba,no,no,no,Black/Black British African,Female,yes,yes,yes,5.0,no,no,no,no,yes,144.0,4.0,4.0,no,yes,no,no,56,44,35.0,,39.5,no,1,1.0,3,4,2,50.0,yes,yes
 BA,yes,no,no,White,Male,no,no,no,4.0,yes,no,no,no,yes,160.0,4.0,5.0,no,yes,no,no,66,47,70.0,76.0,64.33333333333333,yes,4,2.0,0,0,1,100.0,no,no
 BA,yes,no,no,White,Male,no,no,no,4.0,yes,,no,no,yes,122.0,3.0,2.0,no,yes,no,no,96,78,76.0,45.0,66.33333333333333,yes,6,0.0,0,0,1,100.0,no,no
 BA,yes,no,no,Asian,Male,no,no,no,3.0,no,no,yes,no,no,,8.0,7.0,yes,no,no,no,92,59,53.0,73.0,61.666666666666664,yes,5,1.0,0,0,1,100.0,no,no
 BA,yes,yes,no,Asian,Male,no,no,no,5.0,yes,no,yes,no,no,152.0,,,yes,no,no,no,93,41,55.0,54.0,50.0,yes,5,1.0,0,1,0,100.0,no,no
 BA,yes,no,no,Black/Black British African,Male,no,yes,no,1.0,yes,no,no,no,no,168.0,8.0,7.0,yes,no,yes,yes,58,40,43.0,,41.5,yes,3,3.0,0,2,1,100.0,no,yes
 BA,yes,no,no,Black/Black British African,Male,no,yes,no,2.0,no,no,no,yes,no,108.0,3.0,2.0,yes,no,no,yes,57,47,55.0,79.0,60.333333333333336,yes,5,1.0,0,0,1,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,no,yes,4.0,yes,no,no,no,yes,120.0,5.0,4.0,yes,no,yes,no,92,63,65.0,51.0,59.666666666666664,yes,4,2.0,0,1,0,100.0,no,no
+BA,yes,no,no,White,Male,yes,no,yes,4.0,yes,no,no,no,yes,120.0,5.0,4.0,yes,no,yes,no,92,63,65.0,51.0,59.666666666666664,yes,4,2.0,0,1,0,100.0,no,no
 BA,yes,yes,no,White,Male,no,yes,no,3.0,no,,yes,no,no,128.0,,,yes,no,yes,no,81,54,57.0,85.0,65.33333333333333,yes,5,1.0,0,1,0,100.0,no,no
 BA,yes,yes,no,Black/Black British African,Female,yes,yes,no,4.0,yes,no,no,no,yes,101.0,5.0,5.0,no,yes,no,no,64,40,46.0,45.0,43.666666666666664,yes,5,1.0,0,1,0,100.0,no,no
 BA,yes,yes,yes,White,Male,no,yes,no,,no,no,yes,no,no,,,,yes,no,yes,yes,77,47,52.0,75.0,58.0,yes,5,1.0,0,2,1,100.0,no,no
 BA,yes,no,no,Black/Black British African,Male,yes,yes,yes,4.0,yes,no,no,no,yes,96.0,5.0,5.0,yes,no,no,no,73,67,43.0,66.0,58.666666666666664,yes,4,2.0,0,0,0,100.0,no,no
-BA,yes,yes,no,Black/Black British African,Female,no,no,no,3.0,yes,no,no,no,no,96.0,4.0,3.0,yes,no,yes,no,52,42,37.0,,39.5,no,3,2.0,2,2,1,33.333333333333336,no,yes
-BA,yes,no,no,Asian,Female,yes,no,yes,5.0,yes,no,no,no,yes,122.0,3.0,,no,no,yes,no,88,80,42.0,65.0,62.333333333333336,yes,3,3.0,0,3,0,100.0,no,no
+BA,yes,yes,no,Black/Black British African,Female,no,no,no,1.0,yes,no,no,no,no,96.0,4.0,3.0,yes,no,yes,no,52,42,37.0,,39.5,no,3,2.0,2,2,1,33.333333333333336,no,yes
+BA,yes,no,no,White,Female,yes,no,yes,5.0,yes,no,no,no,yes,122.0,3.0,,no,no,yes,no,88,80,42.0,65.0,62.333333333333336,yes,3,3.0,0,3,0,100.0,no,no
 BA,yes,yes,no,Asian,Male,no,no,yes,1.0,yes,no,no,no,no,106.0,6.0,5.0,yes,no,no,no,52,44,34.0,,39.0,no,4,1.0,3,0,3,50.0,no,yes
 BA,yes,no,no,Black/Black British African,Female,no,yes,yes,4.0,yes,no,no,no,no,112.0,5.0,4.0,yes,no,no,no,47,36,,,36.0,no,3,2.0,4,0,2,66.66666666666667,no,yes
 BA,yes,no,no,Black/Black British African,Female,no,yes,yes,,yes,no,no,no,no,104.0,6.0,4.0,yes,no,no,no,69,47,46.0,82.0,58.333333333333336,yes,3,3.0,0,2,2,100.0,no,no
@@ -363,25 +363,25 @@ BA,yes,no,no,Other ethnic background,Female,no,no,no,1.0,yes,no,no,no,no,72.0,5.
 BA,yes,no,no,Other ethnic background,Male,yes,yes,no,2.0,yes,no,no,no,yes,104.0,4.0,3.0,yes,yes,yes,yes,58,31,,,31.0,no,2,2.0,3,2,2,50.0,no,yes
 BA,yes,no,no,,Male,yes,no,yes,5.0,yes,,no,no,yes,80.0,7.0,6.0,yes,no,no,no,70,57,48.0,74.0,59.666666666666664,yes,6,0.0,0,0,0,100.0,no,no
 BA,no,yes,no,White,Male,no,no,yes,5.0,yes,no,no,no,no,128.0,5.0,5.0,no,yes,yes,no,64,76,49.0,50.0,58.333333333333336,yes,3,3.0,0,2,2,100.0,no,no
-BA,no,yes,no,Asian,Female,no,no,no,3.0,no,no,no,no,no,96.0,5.0,5.0,yes,,yes,no,59,55,33.0,,44.0,no,4,2.0,2,0,1,33.333333333333336,no,yes
+BA,no,yes,no,Asian,Female,no,no,no,1.0,no,no,no,no,no,96.0,5.0,5.0,yes,,yes,no,59,55,33.0,,44.0,no,4,2.0,2,0,1,33.333333333333336,no,yes
 BA,no,yes,no,Other ethnic background,Male,no,no,no,,no,no,yes,no,no,,,,yes,,no,no,90,65,50.0,68.0,61.0,yes,3,3.0,0,2,2,100.0,no,no
 BA,no,yes,no,Other ethnic background,Female,yes,no,no,4.0,yes,no,no,no,yes,96.0,6.0,4.0,yes,,no,no,61,71,49.0,66.0,62.0,yes,5,1.0,0,2,1,100.0,no,no
-BA,no,yes,no,White,Male,no,no,no,5.0,yes,no,no,no,yes,114.0,3.0,7.0,yes,yes,yes,no,46,51,33.0,,42.0,no,6,0.0,2,0,0,33.333333333333336,no,yes
-BA,no,yes,no,White,Male,no,no,NO,5.0,yes,,no,no,yes,96.0,6.0,5.0,yes,no,no,no,47,41,39.0,,40.0,no,3,3.0,3,1,1,50.0,no,yes
+BA,no,yes,no,White,Male,no,no,no,1.0,yes,no,no,no,yes,114.0,3.0,7.0,yes,yes,yes,no,46,51,33.0,,42.0,no,6,0.0,2,0,0,33.333333333333336,no,yes
+BA,no,yes,no,White,Male,no,no,NO,1.0,yes,,no,no,yes,96.0,6.0,5.0,yes,no,no,no,47,41,39.0,,40.0,no,3,3.0,3,1,1,50.0,no,yes
 BA,no,yes,no,Asian,Male,yes,no,yes,3.0,yes,,no,no,yes,146.0,4.0,4.0,no,yes,no,no,45,40,32.0,0.0,36.0,no,4,1.0,2,1,1,33.333333333333336,no,yes
 BA,no,no,no,Asian,Male,yes,no,no,3.0,yes,,no,no,yes,129.0,4.0,6.0,no,yes,no,,52,46,64.0,72.0,60.666666666666664,yes,5,1.0,0,1,1,100.0,no,no
 BA,no,yes,no,Asian,Male,yes,no,yes,1.0,yes,no,no,no,yes,120.0,7.0,7.0,no,yes,no,yes,53,44,34.0,,39.0,no,1,0.0,4,4,3,66.66666666666667,yes,yes
 BA,no,no,no,Asian,Male,no,no,no,2.0,no,no,no,no,no,88.0,5.0,5.0,yes,no,yes,yes,59,45,38.0,,41.5,no,1,5.0,5,4,2,83.33333333333333,yes,yes
 BA,no,yes,no,Asian,Male,no,no,yes,2.0,no,no,no,no,no,80.0,,,yes,no,yes,yes,96,79,83.0,48.0,70.0,yes,3,3.0,0,2,1,100.0,yes,no
-BA,no,no,no,Asian,Male,yes,no,no,4.0,yes,no,no,no,yes,128.0,4.0,4.0,no,yes,yes,,81,85,63.0,39.0,62.333333333333336,no,5,1.0,2,1,0,33.333333333333336,yes,no
-BA,no,yes,no,Asian,Male,no,no,no,4.0,yes,yes,no,yes,yes,80.0,4.0,4.0,no,yes,yes,yes,48,46,33.0,,39.5,no,3,2.0,3,2,0,50.0,no,yes
-BA,no,yes,no,Asian,Female,yes,no,no,4.0,yes,no,,no,yes,120.0,5.0,4.0,no,yes,no,,72,63,55.0,83.0,67.0,yes,3,3.0,0,0,0,100.0,no,no
+BA,no,no,no,White,Male,yes,no,no,4.0,yes,no,no,no,yes,128.0,4.0,4.0,no,yes,yes,,81,85,63.0,39.0,62.333333333333336,no,5,1.0,2,1,0,33.333333333333336,yes,no
+BA,no,yes,no,Asian,Male,no,no,no,2.0,yes,yes,no,yes,yes,80.0,4.0,4.0,no,yes,yes,yes,48,46,33.0,,39.5,no,3,2.0,3,2,0,50.0,no,yes
+BA,no,yes,no,White,Female,yes,no,no,4.0,yes,no,,no,yes,120.0,5.0,4.0,no,yes,no,,72,63,55.0,83.0,67.0,yes,3,3.0,0,0,0,100.0,no,no
 BA,no,yes,no,Black/Black British African,Male,yes,no,yes,4.0,yes,no,,no,yes,88.0,4.0,4.0,no,yes,yes,,72,83,87.0,65.0,77.33333333333333,yes,3,3.0,0,1,0,100.0,no,no
-BA,no,yes,no,Mixed White and Asian,Female,no,no,no,,yes,no,,no,no,87.0,,,yes,no,yes,,80,76,63.0,38.0,59.0,no,5,1.0,2,4,2,33.333333333333336,yes,no
+BA,no,yes,no,White,Female,no,no,no,,yes,no,,no,no,87.0,,,yes,no,yes,,80,76,63.0,38.0,59.0,no,5,1.0,2,4,2,33.333333333333336,yes,no
 BA,no,yes,no,Asian,Male,yes,no,yes,3.0,yes,no,,no,yes,114.0,7.0,5.0,yes,no,yes,,48,48,41.0,,44.5,yes,3,3.0,0,1,0,100.0,no,yes
 BA,no,yes,no,White,Male,no,no,yes,5.0,yes,no,,no,yes,99.0,,,yes,no,yes,,40,44,36.0,,40.0,no,3,3.0,5,2,2,83.33333333333333,no,yes
 BA,no,no,no,Black/Black British African,Male,yes,no,yes,4.0,yes,,,no,yes,112.0,3.0,5.0,yes,yes,yes,,84,82,65.0,69.0,72.0,yes,3,3.0,0,3,3,100.0,no,no
-BA,no,yes,no,Asian,Male,yes,no,yes,5.0,yes,no,,no,yes,128.0,3.0,5.0,yes,no,yes,,78,64,82.0,40.0,62.0,yes,4,2.0,0,0,1,100.0,yes,no
+BA,no,yes,no,White,Male,yes,no,yes,5.0,yes,no,,no,yes,128.0,3.0,5.0,yes,no,yes,,78,64,82.0,40.0,62.0,yes,4,2.0,0,0,1,100.0,yes,no
 BA,no,no,no,White,Female,no,no,yes,2.0,yes,,,no,no,112.0,4.0,6.0,yes,no,yes,yes,45,43,38.0,,40.5,no,2,4.0,4,4,0,66.66666666666667,yes,yes
 BA,no,yes,no,White,Male,no,no,no,3.0,yes,no,,no,yes,128.0,4.0,4.0,yes,no,no,,51,49,33.0,,41.0,no,1,5.0,2,2,0,33.333333333333336,no,yes
 BA,yes,no,no,White,Male,yes,no,no,5.0,yes,,,no,yes,84.0,4.0,4.0,yes,yes,no,,60,77,52.0,41.0,56.666666666666664,yes,5,1.0,0,0,0,100.0,no,no
@@ -392,13 +392,13 @@ BA,yes,no,no,White,Male,yes,no,no,2.0,yes,no,no,no,yes,82.0,4.0,4.0,no,yes,no,ye
 BA,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,96.0,4.0,4.0,no,no,no,no,83,69,83.0,85.0,79.0,yes,3,3.0,0,2,0,100.0,no,no
 BA,yes,yes,no,Asian,Female,no,yes,no,2.0,no,no,no,no,no,86.0,5.0,4.0,no,no,yes,yes,100,53,68.0,81.0,67.33333333333333,yes,5,1.0,0,0,1,100.0,no,no
 BA,yes,no,no,White,Male,no,no,no,3.0,no,,yes,no,no,,,,yes,no,no,no,94,78,69.0,43.0,63.333333333333336,yes,3,3.0,0,0,0,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,yes,yes,5.0,yes,no,no,no,yes,100.0,7.0,7.0,yes,no,no,no,95,72,40.0,70.0,60.666666666666664,yes,5,1.0,0,0,2,100.0,no,no
+BA,yes,no,no,White,Male,yes,yes,yes,5.0,yes,no,no,no,yes,100.0,7.0,7.0,yes,no,no,no,95,72,40.0,70.0,60.666666666666664,yes,5,1.0,0,0,2,100.0,no,no
 BA,yes,no,no,Black/Black British African,Female,yes,no,yes,5.0,no,no,no,no,no,89.0,,,no,no,no,no,40,44,34.0,,39.0,no,1,1.0,4,5,2,66.66666666666667,yes,yes
 BA,yes,yes,yes,Black/Black British African,Female,yes,yes,no,5.0,yes,no,no,no,no,100.0,5.0,5.0,yes,no,yes,yes,84,61,49.0,55.0,55.0,yes,3,3.0,0,3,0,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,no,4.0,yes,no,no,no,yes,102.0,5.0,3.0,no,yes,yes,no,95,44,81.0,50.0,58.333333333333336,yes,3,3.0,0,2,0,100.0,yes,no
-ba,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,no,88.0,3.0,4.0,yes,no,no,no,71,63,62.0,41.0,55.333333333333336,yes,3,3.0,0,2,1,100.0,yes,no
+ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,no,88.0,3.0,4.0,yes,no,no,no,71,63,62.0,41.0,55.333333333333336,yes,3,3.0,0,2,1,100.0,yes,no
 ba,yes,no,no,White,Male,no,no,yes,4.0,yes,,no,no,no,95.0,,,no,yes,no,no,41,30,,,30.0,no,4,2.0,2,1,1,33.333333333333336,no,yes
-ba,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,96.0,6.0,4.0,no,no,no,no,98,70,49.0,63.0,60.666666666666664,yes,4,2.0,0,3,1,100.0,no,no
+ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,96.0,6.0,4.0,no,no,no,no,98,70,49.0,63.0,60.666666666666664,yes,4,2.0,0,3,1,100.0,no,no
 ba,yes,no,no,Black/Black British African,Male,no,no,no,,no,no,yes,no,no,,,,no,no,yes,no,81,69,60.0,73.0,67.33333333333333,yes,5,1.0,0,1,1,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,yes,1.0,yes,no,no,no,yes,80.0,5.0,4.0,no,yes,yes,yes,60,56,61.0,80.0,65.66666666666667,yes,3,3.0,0,4,1,100.0,yes,no
 ba,yes,no,yes,White,Male,no,no,yes,,no,no,yes,no,,,,,yes,no,yes,yes,62,49,66.0,84.0,66.33333333333333,yes,3,3.0,0,2,2,100.0,no,no
@@ -413,7 +413,7 @@ ba,yes,no,no,Asian,Female,yes,yes,no,3.0,yes,no,no,no,yes,162.0,6.0,6.0,no,yes,n
 ba,yes,no,no,White,Male,yes,no,no,4.0,yes,no,no,no,no,84.0,5.0,5.0,no,yes,yes,no,45,46,45.0,67.0,52.666666666666664,yes,4,2.0,0,1,0,100.0,no,no
 ba,yes,no,no,Other ethnic background,Female,no,no,no,,yes,no,yes,no,no,104.0,,,yes,no,no,no,73,54,79.0,35.0,56.0,no,4,2.0,4,1,1,66.66666666666667,yes,no
 ba,yes,no,no,White,Male,no,no,no,5.0,yes,no,no,no,yes,90.0,,,no,no,yes,no,61,56,47.0,45.0,49.333333333333336,yes,5,1.0,0,0,0,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,no,no,5.0,yes,no,no,no,yes,96.0,4.0,4.0,no,yes,yes,no,65,77,85.0,42.0,68.0,yes,3,3.0,0,2,0,100.0,no,no
+ba,yes,no,no,White,Male,yes,no,no,5.0,yes,no,no,no,yes,96.0,4.0,4.0,no,yes,yes,no,65,77,85.0,42.0,68.0,yes,3,3.0,0,2,0,100.0,no,no
 ba,yes,no,no,Asian,Male,yes,no,no,3.0,yes,no,no,no,yes,96.0,4.0,5.0,yes,no,no,no,96,77,43.0,70.0,63.333333333333336,yes,6,0.0,0,0,1,100.0,no,no
 ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,no,96.0,5.0,5.0,yes,no,yes,no,47,44,75.0,47.0,55.333333333333336,yes,5,1.0,0,2,0,100.0,no,no
 ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,114.0,3.0,4.0,no,yes,yes,no,95,84,77.0,53.0,71.33333333333333,yes,4,2.0,0,3,2,100.0,no,no
@@ -422,7 +422,7 @@ ba,yes,no,no,White,Male,yes,yes,yes,1.0,yes,no,no,no,yes,104.0,5.0,4.0,yes,no,ye
 ba,yes,no,no,White,Female,yes,yes,yes,4.0,yes,no,,no,yes,90.0,4.0,4.0,yes,no,no,no,68,61,81.0,83.0,75.0,yes,4,2.0,0,1,1,100.0,no,no
 ba,yes,no,no,White,Male,yes,yes,yes,5.0,yes,no,,no,yes,98.0,5.0,4.0,no,yes,yes,no,69,68,85.0,62.0,71.66666666666667,yes,3,3.0,0,1,1,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,no,4.0,yes,no,,no,yes,84.0,6.0,4.0,yes,no,yes,no,97,65,80.0,57.0,67.33333333333333,yes,6,0.0,0,1,0,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,yes,,4.0,yes,no,,no,yes,136.0,4.0,5.0,no,yes,no,no,92,44,66.0,41.0,50.333333333333336,yes,5,1.0,0,0,0,100.0,no,no
+ba,yes,no,no,White,Male,yes,yes,,4.0,yes,no,,no,yes,136.0,4.0,5.0,no,yes,no,no,92,44,66.0,41.0,50.333333333333336,yes,5,1.0,0,0,0,100.0,no,no
 ba,yes,no,no,Black/Black British African,Male,yes,yes,yes,4.0,yes,no,,no,yes,91.0,4.0,4.0,no,yes,yes,no,61,44,66.0,85.0,65.0,yes,4,2.0,0,3,0,100.0,no,no
 ba,yes,no,no,White,Female,no,no,,5.0,yes,no,,no,yes,92.0,,,no,no,yes,no,76,83,75.0,62.0,73.33333333333333,yes,3,3.0,0,2,2,100.0,no,no
 ba,yes,no,no,White,Male,yes,no,yes,5.0,yes,no,,no,yes,88.0,4.0,6.0,no,yes,yes,no,65,46,59.0,64.0,56.333333333333336,yes,6,0.0,0,0,1,100.0,no,no
@@ -430,7 +430,7 @@ ba,yes,no,no,Black/Black British African,Female,no,no,no,5.0,no,,no,yes,yes,118.
 ba,yes,no,no,White,Male,no,no,no,2.0,yes,no,no,no,no,101.0,5.0,5.0,yes,no,yes,yes,50,38,,,38.0,no,1,2.0,3,2,0,50.0,no,yes
 ba,yes,no,no,White,Male,yes,no,yes,5.0,yes,no,no,no,no,103.0,5.0,4.0,no,yes,yes,no,76,63,85.0,68.0,72.0,yes,6,0.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Male,yes,yes,no,2.0,yes,no,no,no,yes,114.0,5.0,6.0,no,yes,no,yes,94,81,55.0,62.0,66.0,yes,4,2.0,0,0,0,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,no,yes,5.0,yes,no,no,no,yes,98.0,4.0,4.0,no,yes,yes,no,94,59,83.0,51.0,64.33333333333333,yes,4,2.0,0,0,1,100.0,no,no
+ba,yes,no,no,White,Male,yes,no,yes,5.0,yes,no,no,no,yes,98.0,4.0,4.0,no,yes,yes,no,94,59,83.0,51.0,64.33333333333333,yes,4,2.0,0,0,1,100.0,no,no
 ba,yes,yes,no,Other ethnic background,Female,yes,no,yes,4.0,yes,yes,no,no,yes,103.0,,,no,yes,yes,yes,83,71,48.0,54.0,57.666666666666664,yes,4,2.0,0,1,0,100.0,no,no
 ba,yes,no,no,Other ethnic background,Male,no,no,no,,no,no,no,no,no,99.0,5.0,4.0,yes,no,yes,no,96,57,55.0,56.0,56.0,yes,3,3.0,0,1,2,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,no,5.0,yes,no,no,no,yes,111.0,8.0,5.0,yes,no,yes,no,66,63,75.0,80.0,72.66666666666667,yes,3,3.0,0,3,1,100.0,no,no
@@ -443,7 +443,7 @@ ba,yes,no,yes,White,Male,yes,yes,yes,4.0,yes,no,,no,no,106.0,2.0,5.0,no,yes,yes,
 ba,yes,no,no,White,Female,no,no,no,3.0,yes,no,,no,no,103.0,5.0,6.0,yes,no,yes,no,92,53,87.0,42.0,59.333333333333336,yes,4,2.0,0,0,1,100.0,yes,no
 ba,yes,no,no,Other ethnic background,Male,yes,no,no,4.0,yes,no,,no,yes,112.0,5.0,4.0,no,yes,no,no,69,80,81.0,49.0,70.0,yes,6,0.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Female,no,yes,yes,1.0,yes,no,,no,yes,136.0,4.0,5.0,yes,no,no,no,74,48,44.0,71.0,54.333333333333336,yes,3,3.0,0,1,2,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,,no,yes,95.0,5.0,4.0,no,yes,yes,no,71,49,67.0,33.0,49.666666666666664,no,3,3.0,3,3,0,50.0,no,no
+ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,,no,yes,95.0,5.0,4.0,no,yes,yes,no,71,49,67.0,33.0,49.666666666666664,no,3,3.0,3,3,0,50.0,no,no
 ba,yes,no,no,Other ethnic background,Female,yes,yes,no,4.0,yes,no,no,no,yes,100.0,4.0,3.0,no,yes,yes,,66,72,75.0,75.0,74.0,yes,3,3.0,0,2,2,100.0,no,no
 ba,yes,no,no,Black/Black British African,Female,yes,yes,no,3.0,yes,no,no,no,no,113.0,5.0,3.0,no,yes,no,,76,84,41.0,59.0,61.333333333333336,yes,5,1.0,0,5,0,100.0,no,no
 ba,yes,no,no,White,Male,no,no,yes,3.0,no,no,no,no,no,98.0,,8.0,yes,no,no,,92,44,77.0,63.0,61.333333333333336,yes,3,3.0,0,1,1,100.0,no,no
@@ -451,15 +451,15 @@ ba,yes,no,no,Asian,Female,no,no,yes,,no,no,yes,no,no,100.0,6.0,5.0,no,no,no,,73,
 ba,yes,no,yes,White,Male,no,no,no,3.0,yes,no,no,no,yes,95.0,2.0,2.0,no,yes,no,yes,94,62,80.0,76.0,72.66666666666667,yes,3,3.0,0,2,0,100.0,no,no
 ba,yes,no,no,Other ethnic background,Female,no,yes,no,,no,no,yes,no,no,114.0,,,no,no,no,,98,69,74.0,49.0,64.0,yes,4,2.0,0,2,2,100.0,no,no
 ba,yes,no,no,Asian,Female,no,no,no,,no,no,yes,no,no,106.0,4.0,4.0,yes,no,no,,71,48,78.0,57.0,61.0,yes,5,1.0,0,3,2,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,yes,yes,5.0,no,no,no,no,yes,104.0,5.0,6.0,yes,,no,,76,55,71.0,70.0,65.33333333333333,yes,3,3.0,0,4,1,100.0,yes,no
+ba,yes,no,no,White,Male,yes,yes,yes,5.0,no,no,no,no,yes,104.0,5.0,6.0,yes,,no,,76,55,71.0,70.0,65.33333333333333,yes,3,3.0,0,4,1,100.0,yes,no
 ba,yes,no,no,White,Female,no,no,yes,5.0,yes,no,no,no,no,107.0,6.0,7.0,no,yes,no,,51,48,35.0,,41.5,no,3,3.0,5,1,2,83.33333333333333,no,yes
 ba,yes,no,no,White,Male,yes,yes,no,3.0,yes,no,no,no,no,103.0,5.0,6.0,no,yes,yes,no,62,77,79.0,53.0,69.66666666666667,yes,5,1.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Male,yes,,yes,4.0,yes,no,no,no,no,100.0,5.0,4.0,yes,,yes,no,84,59,69.0,43.0,57.0,yes,3,3.0,0,2,1,100.0,yes,no
 ba,yes,no,no,Other ethnic background,Female,no,no,yes,3.0,yes,no,no,no,no,113.0,3.0,6.0,no,yes,no,no,85,72,70.0,50.0,64.0,yes,3,3.0,0,2,2,100.0,yes,no
 ba,yes,no,no,White,Male,no,no,yes,2.0,yes,no,no,no,yes,118.0,5.0,5.0,yes,,yes,yes,80,57,45.0,69.0,57.0,yes,6,0.0,0,1,0,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,no,5.0,yes,no,no,no,no,102.0,4.0,4.0,yes,,yes,no,60,54,62.0,79.0,65.0,yes,6,0.0,0,0,0,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,no,yes,5.0,yes,no,no,no,yes,108.0,4.0,4.0,no,yes,yes,no,77,51,56.0,62.0,56.333333333333336,yes,4,2.0,0,0,0,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,,no,no,yes,109.0,4.0,4.0,yes,no,yes,no,98,52,72.0,40.0,54.666666666666664,yes,4,2.0,0,0,0,100.0,yes,no
+ba,yes,no,no,White,Male,yes,no,yes,5.0,yes,no,no,no,yes,108.0,4.0,4.0,no,yes,yes,no,77,51,56.0,62.0,56.333333333333336,yes,4,2.0,0,0,0,100.0,no,no
+ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,,no,no,yes,109.0,4.0,4.0,yes,no,yes,no,98,52,72.0,40.0,54.666666666666664,yes,4,2.0,0,0,0,100.0,yes,no
 ba,yes,no,no,White,Male,no,yes,yes,1.0,yes,,no,no,yes,119.0,5.0,4.0,yes,no,yes,no,85,47,52.0,35.0,44.666666666666664,no,4,0.0,2,1,0,86.0,no,yes
 ba,yes,no,no,White,Male,no,no,no,,no,,no,no,no,104.0,6.0,5.0,yes,no,yes,no,66,73,46.0,39.0,52.666666666666664,no,3,3.0,4,3,1,66.66666666666667,yes,no
 ba,yes,no,no,White,Male,no,no,no,4.0,yes,,no,no,no,101.0,6.0,6.0,no,yes,no,no,88,41,41.0,79.0,53.666666666666664,yes,4,2.0,0,1,2,100.0,no,no
@@ -475,7 +475,7 @@ ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,106.0,4.0,4.0,yes,no,no
 ba,yes,no,no,White,Male,yes,yes,yes,5.0,yes,no,no,no,no,103.0,5.0,5.0,yes,no,no,no,69,69,54.0,75.0,66.0,yes,6,0.0,0,0,1,100.0,no,no
 ba,yes,no,no,Asian,Female,yes,yes,yes,3.0,yes,no,no,no,no,108.0,7.0,6.0,yes,no,no,,89,74,45.0,84.0,67.66666666666667,yes,6,0.0,0,0,1,100.0,no,no
 ba,yes,no,no,Other ethnic background,Male,no,no,yes,2.0,yes,no,no,no,no,96.0,5.0,6.0,no,yes,no,yes,75,55,62.0,52.0,56.333333333333336,yes,4,2.0,0,0,0,100.0,no,no
-ba,yes,no,no,Asian,Female,yes,no,yes,5.0,yes,no,no,no,yes,99.0,7.0,5.0,yes,no,yes,,92,74,77.0,48.0,66.33333333333333,yes,3,3.0,0,0,0,100.0,yes,no
+ba,yes,no,no,White,Female,yes,no,yes,5.0,yes,no,no,no,yes,99.0,7.0,5.0,yes,no,yes,,92,74,77.0,48.0,66.33333333333333,yes,3,3.0,0,0,0,100.0,yes,no
 ba,yes,no,no,White,Female,yes,yes,yes,5.0,yes,no,,no,no,125.0,8.0,9.0,yes,,yes,,95,57,60.0,60.0,59.0,yes,6,0.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,,1.0,yes,no,,no,no,102.0,4.0,4.0,yes,,yes,yes,64,61,74.0,43.0,59.333333333333336,yes,4,2.0,0,2,1,100.0,no,no
 ba,yes,no,no,White,Male,no,no,no,4.0,yes,,,no,yes,104.0,8.0,4.0,no,no,yes,,90,74,78.0,80.0,77.33333333333333,yes,6,0.0,0,0,0,100.0,no,no
@@ -487,7 +487,7 @@ ba,yes,no,no,Other ethnic background,Female,yes,yes,no,3.0,yes,,no,no,yes,109.0,
 ba,yes,no,no,Black/Black British African,Female,yes,yes,no,1.0,yes,,no,no,no,102.0,7.0,4.0,yes,no,yes,yes,84,59,49.0,51.0,53.0,yes,5,1.0,0,1,1,100.0,no,no
 ba,yes,no,no,White,Female,no,no,no,4.0,yes,,no,no,no,105.0,6.0,6.0,yes,no,no,no,90,63,68.0,45.0,58.666666666666664,yes,4,2.0,0,1,1,100.0,no,no
 ba,yes,no,yes,White,Male,no,no,yes,3.0,yes,,no,,yes,120.0,4.0,6.0,,no,yes,yes,44,48,31.0,,39.5,no,2,0.0,3,1,1,50.0,no,yes
-ba,yes,no,no,Asian,Female,yes,yes,yes,4.0,yes,,no,no,yes,119.0,6.0,5.0,,no,no,no,60,79,68.0,73.0,73.33333333333333,yes,5,1.0,0,1,0,100.0,no,no
+ba,yes,no,no,White,Female,yes,yes,yes,4.0,yes,,no,no,yes,119.0,6.0,5.0,,no,no,no,60,79,68.0,73.0,73.33333333333333,yes,5,1.0,0,1,0,100.0,no,no
 ba,yes,no,no,White,Male,yes,yes,no,2.0,yes,,,,no,106.0,5.0,5.0,,no,,yes,67,45,52.0,35.0,44.0,no,4,2.0,2,0,1,33.333333333333336,no,no
 ba,yes,no,no,Asian,Female,yes,no,no,3.0,yes,,no,no,no,109.0,5.0,4.0,,yes,no,no,88,77,58.0,67.0,67.33333333333333,yes,6,0.0,0,0,0,100.0,no,no
 ba,yes,no,yes,Black/Black British African,Female,yes,yes,no,2.0,yes,,no,no,no,107.0,5.0,6.0,yes,no,yes,yes,88,62,77.0,42.0,60.333333333333336,yes,3,3.0,0,5,3,100.0,yes,no
@@ -509,13 +509,13 @@ BA,yes,no,no,Black/Black British African,Male,yes,yes,yes,3.0,yes,no,no,no,yes,1
 BA,yes,no,no,Black/Black British African,Female,no,no,,5.0,no,no,yes,no,no,128.0,4.0,4.0,no,yes,no,,77,78,51.0,40.0,56.333333333333336,yes,4,2.0,0,0,1,100.0,no,no
 BA,yes,no,no,White,Male,yes,no,,4.0,yes,no,no,no,yes,91.0,,,no,no,no,,71,45,85.0,59.0,63.0,yes,3,3.0,0,3,2,100.0,no,no
 BA,yes,no,no,Asian,Female,yes,no,no,2.0,no,no,no,no,yes,128.0,4.0,5.0,no,yes,no,yes,68,66,79.0,37.0,60.666666666666664,no,4,2.0,2,4,1,33.333333333333336,yes,no
-BA,yes,yes,no,Asian,Male,yes,yes,no,3.0,no,no,no,no,no,82.0,3.0,3.0,no,yes,no,no,46,39,,,39.0,no,2,2.0,1,1,1,16.666666666666668,no,yes
-BA,yes,no,no,Asian,Male,yes,yes,yes,4.0,no,no,no,no,yes,84.0,4.0,4.0,yes,no,no,no,98,47,65.0,79.0,63.666666666666664,yes,6,0.0,0,0,1,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,yes,yes,5.0,yes,no,no,no,no,127.0,,5.0,no,no,no,no,72,73,85.0,65.0,74.33333333333333,yes,3,3.0,0,0,0,100.0,no,no
+BA,yes,yes,no,Asian,Male,yes,yes,no,2.0,no,no,no,no,no,82.0,3.0,3.0,no,yes,no,no,46,39,,,39.0,no,2,2.0,1,1,1,16.666666666666668,no,yes
+BA,yes,no,no,White,Male,yes,yes,yes,4.0,no,no,no,no,yes,84.0,4.0,4.0,yes,no,no,no,98,47,65.0,79.0,63.666666666666664,yes,6,0.0,0,0,1,100.0,no,no
+BA,yes,no,no,White,Male,yes,yes,yes,5.0,yes,no,no,no,no,127.0,,5.0,no,no,no,no,72,73,85.0,65.0,74.33333333333333,yes,3,3.0,0,0,0,100.0,no,no
 BA,yes,yes,no,Black/Black British African,Male,yes,yes,no,4.0,yes,no,no,no,yes,120.0,4.0,4.0,yes,no,no,no,71,56,50.0,42.0,49.333333333333336,yes,5,1.0,0,1,0,100.0,no,no
 BA,yes,yes,no,White,Male,no,no,yes,1.0,no,no,no,no,no,96.0,4.0,5.0,no,yes,no,no,45,47,35.0,,27.333333333333332,no,5,1.0,2,1,2,33.333333333333336,no,yes
 BA,yes,no,no,Asian,Female,no,no,yes,,no,no,yes,no,no,82.0,,,no,no,yes,no,75,84,66.0,41.0,63.666666666666664,yes,3,3.0,0,2,0,100.0,yes,no
-BA,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,no,117.0,,,no,yes,yes,no,79,59,68.0,69.0,65.33333333333333,yes,6,0.0,0,0,0,100.0,no,no
+BA,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,no,117.0,,,no,yes,yes,no,79,59,68.0,69.0,65.33333333333333,yes,6,0.0,0,0,0,100.0,no,no
 BA,yes,no,no,White,Male,yes,yes,yes,1.0,yes,,no,no,no,153.0,9.0,8.0,no,no,no,no,85,65,67.0,68.0,66.66666666666667,yes,3,3.0,0,2,2,100.0,no,no
 BA,yes,no,no,Black/Black British African,Female,yes,no,no,2.0,yes,,no,no,no,97.0,,,yes,no,no,yes,74,62,59.0,69.0,63.333333333333336,yes,3,3.0,0,0,1,100.0,no,no
 BA,yes,no,no,Other ethnic background,Female,no,yes,no,3.0,no,,no,no,no,93.0,8.0,5.0,yes,no,yes,,74,82,67.0,46.0,65.0,yes,3,3.0,0,0,1,100.0,no,no
@@ -526,7 +526,7 @@ BA,yes,yes,no,White,Female,yes,yes,yes,2.0,yes,,,no,no,96.0,4.0,5.0,yes,yes,yes,
 BA,yes,no,no,White,Female,no,yes,no,1.0,yes,,yes,no,no,80.0,5.0,5.0,yes,no,no,,64,59,62.0,77.0,66.0,yes,5,1.0,0,2,2,100.0,no,no
 BA,yes,no,no,Black/Black British African,Male,yes,yes,no,1.0,yes,,,no,no,95.0,5.0,5.0,yes,no,yes,yes,71,53,47.0,80.0,60.0,yes,3,3.0,0,4,3,100.0,yes,no
 BA,yes,no,no,Other ethnic background,Male,yes,no,yes,5.0,yes,no,,no,yes,125.0,3.0,4.0,yes,no,no,,69,60,80.0,54.0,64.66666666666667,yes,6,0.0,0,0,1,100.0,no,no
-BA,yes,no,no,Black/Black British African,Female,no,no,no,3.0,no,no,yes,no,no,104.0,6.0,7.0,yes,no,no,,45,38,,,38.0,no,3,0.0,1,4,2,16.666666666666668,yes,yes
+BA,yes,no,no,Black/Black British African,Female,no,no,no,1.0,no,no,yes,no,no,104.0,6.0,7.0,yes,no,no,,45,38,,,38.0,no,3,0.0,1,4,2,16.666666666666668,yes,yes
 BA,yes,no,no,White,Male,no,no,yes,1.0,yes,no,yes,no,no,128.0,4.0,4.0,no,yes,yes,,58,55,41.0,,48.0,yes,6,0.0,0,0,0,100.0,no,yes
 BA,yes,no,no,Black/Black British African,Female,no,no,no,3.0,yes,yes,,no,no,80.0,4.0,4.0,yes,no,no,yes,90,70,87.0,82.0,79.0,yes,6,0.0,0,0,1,100.0,no,no
 BA,yes,no,no,Asian,Male,yes,no,yes,3.0,no,no,,no,yes,102.0,3.0,4.0,yes,yes,yes,,54,50,55.0,71.0,58.666666666666664,yes,3,3.0,0,3,0,100.0,no,no
@@ -538,14 +538,14 @@ BA,yes,no,no,White,Male,no,no,yes,5.0,no,no,no,no,yes,122.0,3.0,2.0,no,yes,no,no
 BA,yes,no,no,Other ethnic background,Male,yes,no,yes,4.0,yes,no,no,no,yes,,8.0,7.0,yes,no,no,no,90,42,79.0,43.0,54.666666666666664,yes,6,0.0,0,0,0,100.0,no,no
 BA,yes,no,no,White,Female,no,no,no,4.0,yes,no,no,no,yes,152.0,,,yes,no,no,no,75,50,58.0,51.0,53.0,yes,5,1.0,0,1,1,100.0,no,no
 BA,yes,no,no,White,Female,no,no,no,3.0,no,,yes,no,no,168.0,8.0,7.0,yes,no,yes,no,77,71,63.0,49.0,61.0,yes,5,1.0,0,0,1,100.0,no,no
-BA,yes,no,yes,White,Male,no,no,no,5.0,yes,no,yes,no,no,108.0,3.0,2.0,yes,no,no,yes,48,39,,,39.0,no,5,,1,0,2,16.666666666666668,no,yes
+BA,yes,no,yes,White,Male,no,no,no,1.0,yes,no,yes,no,no,108.0,3.0,2.0,yes,no,no,yes,48,39,,,39.0,no,5,,1,0,2,16.666666666666668,no,yes
 BA,yes,no,no,White,Female,yes,yes,no,1.0,yes,no,no,no,no,120.0,5.0,4.0,yes,no,yes,yes,91,58,65.0,44.0,55.666666666666664,yes,3,3.0,0,2,2,100.0,yes,no
 BA,yes,no,no,Black/Black British African,Male,no,yes,no,2.0,no,no,no,yes,no,128.0,5.0,5.0,yes,no,yes,yes,58,41,38.0,,39.5,no,2,0.0,4,5,3,66.66666666666667,yes,yes
-BA,yes,no,no,Asian,Female,yes,yes,yes,4.0,yes,no,no,no,yes,84.0,3.0,6.0,no,yes,yes,no,79,73,82.0,57.0,70.66666666666667,yes,6,0.0,0,0,0,100.0,no,no
+BA,yes,no,no,White,Female,yes,yes,yes,4.0,yes,no,no,no,yes,84.0,3.0,6.0,no,yes,yes,no,79,73,82.0,57.0,70.66666666666667,yes,6,0.0,0,0,0,100.0,no,no
 BA,yes,no,no,Asian,Female,no,no,no,3.0,no,no,yes,no,no,,5.0,5.0,yes,no,no,no,88,82,49.0,65.0,65.33333333333333,yes,6,0.0,0,0,1,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,yes,no,4.0,yes,no,no,no,yes,148.0,4.0,4.0,no,no,yes,no,65,61,83.0,43.0,62.333333333333336,yes,3,3.0,0,2,2,100.0,no,no
+BA,yes,no,no,White,Male,yes,yes,no,4.0,yes,no,no,no,yes,148.0,4.0,4.0,no,no,yes,no,65,61,83.0,43.0,62.333333333333336,yes,3,3.0,0,2,2,100.0,no,no
 BA,yes,yes,no,Black/Black British African,Female,no,yes,no,,no,no,yes,no,no,168.0,4.0,4.0,yes,no,no,no,63,41,81.0,41.0,54.333333333333336,yes,3,3.0,0,3,2,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,no,yes,4.0,yes,no,no,no,yes,82.0,4.0,4.0,yes,no,no,no,87,69,67.0,61.0,65.66666666666667,yes,4,2.0,0,0,1,100.0,no,no
+BA,yes,no,no,White,Male,yes,no,yes,4.0,yes,no,no,no,yes,82.0,4.0,4.0,yes,no,no,no,87,69,67.0,61.0,65.66666666666667,yes,4,2.0,0,0,1,100.0,no,no
 BA,yes,no,no,Asian,Female,yes,yes,no,3.0,yes,no,no,no,no,96.0,,,no,yes,yes,no,59,40,,,40.0,yes,4,2.0,0,1,0,100.0,no,yes
 BA,yes,no,no,White,Male,yes,no,yes,5.0,yes,no,no,no,yes,86.0,6.0,5.0,no,no,no,no,98,43,83.0,74.0,66.66666666666667,yes,4,2.0,0,0,0,100.0,no,no
 BA,yes,no,no,White,Female,yes,yes,yes,1.0,yes,no,no,no,no,,6.0,6.0,yes,yes,yes,no,94,47,69.0,62.0,59.333333333333336,yes,3,3.0,0,4,2,100.0,yes,no
@@ -559,16 +559,16 @@ BA,yes,no,no,Other ethnic background,Male,no,no,yes,,no,no,yes,no,no,168.0,4.0,4
 BA,yes,no,no,Other ethnic background,Male,yes,yes,,3.0,yes,no,no,no,yes,168.0,5.0,4.0,no,yes,yes,no,99,77,51.0,46.0,58.0,yes,3,3.0,0,2,2,100.0,yes,no
 BA,yes,no,no,Asian,Female,yes,yes,no,3.0,yes,no,no,no,yes,88.0,4.0,4.0,,no,yes,,93,80,59.0,72.0,70.33333333333333,yes,5,1.0,0,0,0,100.0,no,no
 BA,yes,no,no,White,Male,no,no,no,4.0,yes,no,no,no,yes,107.0,5.0,5.0,,no,yes,,97,85,68.0,47.0,66.66666666666667,yes,4,2.0,0,1,1,100.0,yes,no
-BA,yes,no,no,White,Female,yes,yes,no,4.0,yes,no,no,no,yes,111.0,7.0,6.0,,no,yes,,44,36,,,36.0,no,5,,2,0,1,33.333333333333336,no,yes
+BA,yes,no,no,White,Female,yes,yes,no,2.0,yes,no,no,no,yes,111.0,7.0,6.0,,no,yes,,44,36,,,36.0,no,5,,2,0,1,33.333333333333336,no,yes
 BA,yes,no,no,White,Male,yes,yes,no,1.0,yes,no,no,no,no,168.0,5.0,6.0,,no,yes,yes,60,71,42.0,36.0,49.666666666666664,no,3,3.0,2,0,2,33.333333333333336,yes,no
 BA,yes,no,yes,White,Female,yes,yes,no,2.0,yes,no,no,no,yes,122.0,7.0,5.0,yes,no,yes,yes,70,71,77.0,41.0,63.0,yes,4,2.0,0,1,1,100.0,yes,no
-BA,yes,no,yes,Asian,Male,yes,no,yes,5.0,yes,no,no,no,yes,116.0,8.0,9.0,yes,no,no,yes,76,71,50.0,41.0,54.0,yes,6,0.0,0,0,1,100.0,no,no
+BA,yes,no,yes,White,Male,yes,no,yes,5.0,yes,no,no,no,yes,116.0,8.0,9.0,yes,no,no,yes,76,71,50.0,41.0,54.0,yes,6,0.0,0,0,1,100.0,no,no
 BA,yes,no,yes,White,Male,yes,yes,yes,5.0,yes,,no,no,no,107.0,4.0,4.0,yes,no,no,yes,72,62,79.0,49.0,63.333333333333336,yes,4,2.0,0,3,1,100.0,yes,no
 BA,yes,no,no,Asian,Male,yes,no,no,,no,,no,no,no,153.0,9.0,8.0,no,no,yes,,93,80,49.0,36.0,55.0,no,5,1.0,2,1,1,33.333333333333336,yes,no
 BA,yes,no,no,Black/Black British African,Female,no,no,no,,no,,yes,no,no,,,,yes,no,no,no,79,61,53.0,33.0,49.0,no,3,3.0,4,5,0,66.66666666666667,yes,no
-BA,yes,no,no,Asian,Male,yes,yes,no,4.0,yes,no,no,no,yes,93.0,8.0,5.0,yes,no,no,no,40,32,,,32.0,no,1,1.0,2,4,1,33.333333333333336,yes,yes
+BA,yes,no,no,Asian,Male,yes,yes,no,2.0,yes,no,no,no,yes,93.0,8.0,5.0,yes,no,no,no,40,32,,,32.0,no,1,1.0,2,4,1,33.333333333333336,yes,yes
 BA,yes,no,no,Black/Black British African,Male,yes,yes,yes,5.0,yes,no,no,no,yes,116.0,,,yes,no,yes,no,74,78,73.0,71.0,74.0,yes,3,3.0,0,4,1,100.0,yes,no
-BA,yes,no,no,White,Male,yes,yes,no,5.0,yes,no,no,no,yes,133.0,7.0,4.0,yes,no,no,no,80,65,,,65.0,yes,4,2.0,0,0,0,100.0,no,yes
+BA,yes,no,no,White,Male,yes,yes,no,1.0,yes,no,no,no,yes,133.0,7.0,4.0,yes,no,no,no,80,65,,,65.0,yes,4,2.0,0,0,0,100.0,no,yes
 BA,yes,no,no,White,Male,yes,yes,yes,3.0,yes,no,no,no,yes,121.0,5.0,6.0,no,no,yes,no,92,50,49.0,65.0,54.666666666666664,yes,3,3.0,0,4,0,100.0,yes,no
 BA,yes,no,no,White,Male,yes,yes,no,3.0,yes,no,no,no,yes,96.0,4.0,5.0,yes,yes,yes,no,70,53,56.0,49.0,52.666666666666664,yes,5,1.0,0,3,0,100.0,no,no
 BA,yes,no,no,White,Female,yes,yes,yes,1.0,yes,no,no,no,yes,80.0,5.0,5.0,yes,no,no,yes,61,80,48.0,84.0,70.66666666666667,yes,5,1.0,0,4,1,100.0,no,no
@@ -577,15 +577,15 @@ BA,yes,no,no,White,Male,yes,yes,yes,2.0,no,no,no,no,no,125.0,3.0,4.0,yes,no,no,y
 BA,yes,no,no,White,Male,yes,yes,no,4.0,yes,no,no,no,yes,104.0,6.0,7.0,yes,no,no,no,66,66,69.0,63.0,66.0,yes,6,0.0,0,0,0,100.0,no,no
 BA,yes,no,no,Black/Black British African,Male,no,yes,no,4.0,yes,yes,no,yes,yes,128.0,4.0,4.0,no,yes,yes,yes,82,61,57.0,59.0,59.0,yes,5,1.0,0,5,3,100.0,no,no
 BA,yes,no,no,Black/Black British African,Male,yes,yes,no,4.0,yes,no,no,no,yes,80.0,4.0,4.0,yes,no,no,no,98,46,73.0,74.0,64.33333333333333,yes,3,3.0,0,0,1,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,no,yes,4.0,yes,no,no,no,yes,102.0,3.0,4.0,yes,yes,no,no,93,56,61.0,62.0,59.666666666666664,yes,4,2.0,0,2,2,100.0,no,no
+BA,yes,no,no,White,Male,yes,no,yes,4.0,yes,no,no,no,yes,102.0,3.0,4.0,yes,yes,no,no,93,56,61.0,62.0,59.666666666666664,yes,4,2.0,0,2,2,100.0,no,no
 BA,yes,no,no,Asian,Female,no,no,no,,yes,no,no,no,no,123.0,3.0,4.0,no,yes,no,no,74,80,85.0,60.0,75.0,yes,4,2.0,0,1,0,100.0,no,no
 BA,yes,no,no,White,Male,yes,yes,yes,3.0,yes,no,no,no,yes,120.0,,,yes,no,no,no,60,42,59.0,46.0,49.0,yes,5,1.0,0,1,0,100.0,no,no
-BA,yes,yes,no,White,Female,yes,yes,no,5.0,yes,no,no,no,yes,144.0,4.0,4.0,no,yes,yes,no,42,42,31.0,,36.5,no,4,2.0,5,0,0,83.33333333333333,no,yes
-BA,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,160.0,4.0,5.0,no,yes,no,no,68,46,87.0,40.0,57.0,yes,3,3.0,0,1,0,100.0,no,no
+BA,yes,yes,no,White,Female,yes,yes,no,1.0,yes,no,no,no,yes,144.0,4.0,4.0,no,yes,yes,no,42,42,31.0,,36.5,no,4,2.0,5,0,0,83.33333333333333,no,yes
+BA,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,160.0,4.0,5.0,no,yes,no,no,68,46,87.0,40.0,57.0,yes,3,3.0,0,1,0,100.0,no,no
 BA,yes,no,no,White,Male,yes,yes,yes,5.0,yes,no,no,no,yes,122.0,3.0,2.0,no,yes,yes,no,75,58,82.0,46.0,62.0,yes,5,1.0,0,1,0,100.0,yes,no
 BA,yes,no,no,White,Male,yes,yes,yes,2.0,yes,no,no,no,no,,8.0,7.0,yes,no,yes,yes,67,73,48.0,43.0,54.666666666666664,yes,4,2.0,0,3,2,100.0,no,no
 BA,yes,no,no,Black/Black British African,Male,yes,yes,no,3.0,yes,no,no,no,yes,152.0,,,yes,no,no,,92,69,76.0,73.0,72.66666666666667,yes,4,2.0,0,0,1,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,no,no,5.0,yes,no,no,no,yes,168.0,8.0,7.0,yes,no,no,,78,56,40.0,75.0,57.0,yes,4,2.0,0,1,2,100.0,no,no
+BA,yes,no,no,White,Male,yes,no,no,5.0,yes,no,no,no,yes,168.0,8.0,7.0,yes,no,no,,78,56,40.0,75.0,57.0,yes,4,2.0,0,1,2,100.0,no,no
 BA,yes,no,no,White,Male,no,no,no,4.0,yes,no,no,no,yes,108.0,3.0,2.0,yes,no,no,,71,84,76.0,63.0,74.33333333333333,yes,4,2.0,0,0,1,100.0,no,no
 BA,yes,no,no,White,Female,no,no,no,1.0,yes,no,no,no,yes,107.0,5.0,3.0,yes,no,no,yes,64,67,80.0,85.0,77.33333333333333,yes,3,3.0,0,2,0,100.0,no,no
 BA,yes,no,no,White,Male,yes,yes,yes,3.0,yes,no,no,no,yes,105.0,4.0,5.0,yes,no,yes,,58,33,,,33.0,no,3,2.0,4,4,1,66.66666666666667,yes,yes
@@ -620,12 +620,12 @@ BA,yes,no,no,Black/Black British African,Female,no,no,no,5.0,no,no,yes,no,no,89.
 BA,yes,no,no,White,Male,yes,no,no,4.0,yes,no,no,no,yes,103.0,4.0,5.0,yes,,no,no,66,48,43.0,66.0,52.333333333333336,yes,6,0.0,0,0,1,100.0,no,no
 BA,yes,no,no,Asian,Female,yes,no,no,2.0,no,no,no,no,yes,128.0,4.0,4.0,no,yes,no,yes,80,72,65.0,50.0,62.333333333333336,yes,3,3.0,0,1,0,100.0,no,no
 BA,yes,yes,no,Asian,Male,yes,yes,no,,no,no,no,no,no,91.0,,,no,,no,no,86,52,85.0,84.0,73.66666666666667,yes,3,3.0,0,3,2,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,yes,yes,4.0,no,no,no,no,yes,128.0,4.0,5.0,no,yes,no,no,100,70,62.0,73.0,68.33333333333333,yes,4,2.0,0,2,1,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,yes,yes,5.0,yes,no,no,no,no,82.0,3.0,3.0,no,yes,no,no,60,41,71.0,62.0,58.0,yes,6,0.0,0,0,1,100.0,no,no
+BA,yes,no,no,White,Male,yes,yes,yes,4.0,no,no,no,no,yes,128.0,4.0,5.0,no,yes,no,no,100,70,62.0,73.0,68.33333333333333,yes,4,2.0,0,2,1,100.0,no,no
+BA,yes,no,no,White,Male,yes,yes,yes,5.0,yes,no,no,no,no,82.0,3.0,3.0,no,yes,no,no,60,41,71.0,62.0,58.0,yes,6,0.0,0,0,1,100.0,no,no
 BA,yes,yes,no,Black/Black British African,Male,yes,yes,no,4.0,yes,no,no,no,yes,84.0,4.0,4.0,yes,no,no,no,92,58,87.0,81.0,74.66666666666667,yes,5,1.0,0,0,1,100.0,no,no
 BA,yes,yes,no,White,Male,no,no,yes,,no,no,no,no,no,127.0,,5.0,no,no,no,no,64,61,69.0,71.0,67.0,yes,5,1.0,0,0,1,100.0,no,no
 BA,yes,no,no,Asian,Female,no,no,yes,,no,no,yes,no,no,120.0,4.0,4.0,yes,no,no,no,85,55,40.0,56.0,50.333333333333336,yes,6,0.0,0,0,1,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,no,96.0,4.0,5.0,no,yes,no,no,46,44,66.0,47.0,52.333333333333336,yes,3,3.0,0,3,0,100.0,no,no
+BA,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,no,96.0,4.0,5.0,no,yes,no,no,46,44,66.0,47.0,52.333333333333336,yes,3,3.0,0,3,0,100.0,no,no
 BA,yes,no,no,White,Male,yes,,yes,1.0,yes,no,no,no,no,82.0,,,no,no,yes,no,95,61,41.0,47.0,49.666666666666664,yes,3,3.0,0,2,0,100.0,no,no
 BA,yes,no,no,Black/Black British African,Female,yes,no,no,2.0,yes,no,no,no,no,117.0,,,no,yes,yes,yes,61,45,78.0,41.0,54.666666666666664,yes,5,1.0,0,1,1,100.0,yes,no
 BA,yes,no,no,Other ethnic background,Female,no,,no,3.0,no,no,no,no,no,153.0,9.0,8.0,no,no,no,no,72,55,51.0,54.0,53.333333333333336,yes,6,0.0,0,0,1,100.0,no,no
@@ -638,7 +638,7 @@ BA,yes,no,no,Black/Black British African,Male,yes,,no,1.0,yes,no,no,no,no,96.0,4
 BA,yes,no,no,Other ethnic background,Male,yes,no,yes,5.0,yes,no,no,no,yes,80.0,5.0,5.0,yes,no,no,no,95,43,58.0,36.0,45.666666666666664,no,3,3.0,2,4,0,33.333333333333336,yes,no
 BA,yes,no,no,Black/Black British African,Female,no,no,no,,no,no,yes,no,no,,5.0,5.0,yes,no,yes,no,83,65,67.0,69.0,67.0,yes,5,1.0,0,5,1,100.0,no,no
 BA,yes,no,no,White,Male,no,no,yes,1.0,yes,no,yes,no,no,125.0,3.0,4.0,yes,no,no,no,52,45,38.0,,27.666666666666668,no,5,1.0,3,0,2,50.0,no,yes
-BA,yes,no,no,Black/Black British African,Female,no,no,no,3.0,yes,yes,no,no,no,104.0,6.0,7.0,yes,no,no,yes,60,37,0.0,0.0,37.0,no,3,2.0,3,0,1,50.0,no,yes
+BA,yes,no,no,Black/Black British African,Female,no,no,no,2.0,yes,yes,no,no,no,104.0,6.0,7.0,yes,no,no,yes,60,37,0.0,0.0,37.0,no,3,2.0,3,0,1,50.0,no,yes
 BA,yes,no,no,Asian,Male,yes,no,yes,3.0,no,,no,no,yes,128.0,4.0,4.0,no,yes,no,no,96,80,46.0,52.0,59.333333333333336,yes,5,1.0,0,0,0,100.0,no,no
 BA,yes,no,no,White,Male,yes,no,no,4.0,yes,,no,no,yes,80.0,4.0,4.0,yes,no,no,no,89,79,73.0,69.0,73.66666666666667,yes,6,0.0,0,0,0,100.0,no,no
 BA,yes,no,no,White,Male,yes,,no,4.0,yes,,no,no,no,102.0,3.0,4.0,yes,yes,yes,,50,40,43.0,72.0,51.666666666666664,yes,3,3.0,0,3,0,100.0,no,no
@@ -651,12 +651,12 @@ BA,yes,no,no,White,Female,no,no,no,3.0,no,no,yes,no,no,,8.0,7.0,yes,no,no,no,87,
 BA,yes,no,yes,White,Male,no,no,no,5.0,yes,no,yes,no,no,152.0,,,yes,no,no,yes,65,54,74.0,41.0,56.333333333333336,yes,4,2.0,0,0,0,100.0,no,no
 BA,yes,no,no,White,Female,yes,yes,no,1.0,yes,no,no,no,no,168.0,8.0,7.0,yes,no,yes,yes,98,49,40.0,58.0,49.0,yes,1,5.0,0,4,2,100.0,yes,no
 BA,yes,no,no,Black/Black British African,Male,no,yes,no,2.0,no,no,no,yes,no,108.0,3.0,2.0,yes,no,no,yes,48,34,,,34.0,no,3,1.0,4,0,1,66.66666666666667,no,yes
-BA,yes,no,no,Asian,Female,yes,yes,yes,4.0,yes,no,no,no,yes,120.0,5.0,4.0,yes,no,yes,no,87,58,51.0,38.0,49.0,no,3,3.0,2,2,0,33.333333333333336,no,no
+BA,yes,no,no,White,Female,yes,yes,yes,4.0,yes,no,no,no,yes,120.0,5.0,4.0,yes,no,yes,no,87,58,51.0,38.0,49.0,no,3,3.0,2,2,0,33.333333333333336,no,no
 BA,yes,no,no,Asian,Female,no,no,no,3.0,no,no,yes,no,no,128.0,,,yes,no,yes,no,95,47,75.0,36.0,52.666666666666664,no,4,2.0,3,2,1,50.0,yes,no
-BA,yes,no,no,Asian,Male,yes,yes,no,4.0,yes,no,no,no,yes,101.0,5.0,5.0,no,yes,no,no,82,84,87.0,51.0,73.33333333333333,yes,3,3.0,0,0,1,100.0,no,no
+BA,yes,no,no,White,Male,yes,yes,no,4.0,yes,no,no,no,yes,101.0,5.0,5.0,no,yes,no,no,82,84,87.0,51.0,73.33333333333333,yes,3,3.0,0,0,1,100.0,no,no
 BA,yes,yes,no,Black/Black British African,Female,no,yes,no,,no,no,yes,no,no,,,,yes,no,yes,no,90,51,84.0,72.0,69.0,yes,6,0.0,0,0,0,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,no,yes,4.0,yes,no,no,no,yes,96.0,5.0,5.0,yes,no,no,no,64,79,40.0,44.0,54.333333333333336,yes,3,3.0,0,2,2,100.0,no,no
-BA,yes,no,no,Asian,Female,yes,yes,no,3.0,yes,no,,no,no,96.0,4.0,3.0,yes,no,no,no,56,40,35.0,,37.5,no,2,2.0,4,0,1,66.66666666666667,no,yes
+BA,yes,no,no,White,Male,yes,no,yes,4.0,yes,no,no,no,yes,96.0,5.0,5.0,yes,no,no,no,64,79,40.0,44.0,54.333333333333336,yes,3,3.0,0,2,2,100.0,no,no
+BA,yes,no,no,Asian,Female,yes,yes,no,1.0,yes,no,,no,no,96.0,4.0,3.0,yes,no,no,no,56,40,35.0,,37.5,no,2,2.0,4,0,1,66.66666666666667,no,yes
 BA,yes,no,no,White,Male,yes,no,yes,5.0,yes,no,,no,yes,122.0,3.0,,no,no,yes,no,84,60,62.0,44.0,55.333333333333336,yes,4,2.0,0,1,0,100.0,no,no
 BA,yes,no,no,White,Female,yes,yes,yes,1.0,yes,no,,no,no,106.0,6.0,5.0,yes,,no,no,76,60,82.0,79.0,73.66666666666667,yes,4,2.0,0,0,1,100.0,no,no
 BA,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,,no,no,112.0,5.0,4.0,yes,,no,no,56,41,75.0,78.0,64.66666666666667,yes,3,3.0,0,1,0,100.0,no,no
@@ -669,7 +669,7 @@ BA,yes,no,no,Other ethnic background,Male,no,no,yes,,no,no,yes,no,no,,,,yes,no,n
 BA,yes,no,no,Other ethnic background,Male,yes,yes,no,3.0,yes,no,no,no,yes,84.0,4.0,3.0,no,yes,yes,,79,48,76.0,70.0,64.66666666666667,yes,3,3.0,0,0,1,100.0,no,no
 BA,yes,no,no,Asian,Female,yes,yes,no,3.0,yes,no,no,no,yes,84.0,5.0,4.0,no,yes,yes,,96,45,73.0,41.0,53.0,yes,3,3.0,0,2,0,100.0,no,no
 BA,yes,no,no,White,Male,no,no,no,4.0,yes,no,no,no,yes,82.0,4.0,3.0,yes,no,no,,78,77,80.0,41.0,66.0,yes,3,3.0,0,1,1,100.0,no,no
-BA,yes,no,no,White,Female,,yes,no,4.0,yes,no,no,no,yes,144.0,4.0,4.0,no,yes,no,,45,49,32.0,,40.5,no,1,5.0,5,2,0,83.33333333333333,no,yes
+BA,yes,no,no,White,Female,,yes,no,2.0,yes,no,no,no,yes,144.0,4.0,4.0,no,yes,no,,45,49,32.0,,40.5,no,1,5.0,5,2,0,83.33333333333333,no,yes
 BA,yes,no,no,White,Male,,yes,no,1.0,yes,no,no,no,no,72.0,5.0,5.0,yes,no,yes,yes,61,51,60.0,67.0,59.333333333333336,yes,3,3.0,0,2,2,100.0,no,no
 BA,yes,no,yes,White,Female,,yes,no,2.0,yes,no,no,no,yes,104.0,4.0,3.0,yes,yes,yes,yes,48,45,32.0,,38.5,no,3,0.0,5,0,2,83.33333333333333,no,yes
 BA,yes,no,yes,Asian,Male,,no,yes,5.0,yes,no,no,no,yes,80.0,7.0,6.0,yes,no,no,yes,86,50,56.0,52.0,52.666666666666664,yes,4,2.0,0,1,1,100.0,no,no
@@ -687,7 +687,7 @@ BA,yes,no,no,White,Male,yes,,yes,2.0,no,no,no,no,no,80.0,5.0,4.0,yes,,yes,yes,56
 BA,yes,no,no,White,Male,yes,,no,4.0,yes,no,,no,yes,128.0,4.0,4.0,no,yes,yes,no,76,42,83.0,85.0,70.0,yes,6,0.0,0,0,1,100.0,no,no
 BA,yes,no,no,Black/Black British African,Male,no,,no,4.0,yes,yes,,yes,yes,80.0,4.0,4.0,no,yes,no,yes,94,77,49.0,45.0,57.0,yes,4,2.0,0,0,0,100.0,yes,no
 BA,yes,no,no,Black/Black British African,Male,yes,,no,4.0,yes,no,,no,yes,120.0,5.0,4.0,no,yes,no,no,70,45,57.0,30.0,44.0,no,1,5.0,2,5,3,33.333333333333336,yes,no
-BA,yes,no,no,Asian,Male,yes,no,yes,4.0,yes,no,,no,yes,88.0,4.0,4.0,no,yes,yes,no,78,62,48.0,70.0,60.0,yes,3,3.0,0,1,0,100.0,no,no
+BA,yes,no,no,White,Male,yes,no,yes,4.0,yes,no,,no,yes,88.0,4.0,4.0,no,yes,yes,no,78,62,48.0,70.0,60.0,yes,3,3.0,0,1,0,100.0,no,no
 BA,yes,no,no,Asian,Female,no,no,no,,yes,no,,no,no,87.0,,,yes,,yes,no,90,74,81.0,46.0,67.0,yes,4,2.0,0,1,0,100.0,no,no
 BA,yes,no,no,White,Male,,,yes,3.0,yes,no,,no,yes,114.0,7.0,5.0,yes,,yes,no,82,69,43.0,37.0,49.666666666666664,no,4,2.0,2,1,1,33.333333333333336,yes,no
 BA,yes,yes,no,White,Female,,,yes,5.0,yes,no,no,no,yes,100.0,6.0,7.0,yes,,yes,no,42,41,36.0,,38.5,no,2,1.0,2,4,1,33.333333333333336,yes,yes
@@ -695,7 +695,7 @@ BA,yes,no,no,Asian,Male,,yes,yes,4.0,yes,no,no,no,yes,112.0,3.0,5.0,yes,yes,yes,
 BA,yes,no,no,White,Male,,yes,yes,5.0,yes,no,,no,yes,128.0,3.0,5.0,yes,,yes,no,99,75,66.0,69.0,70.0,yes,6,0.0,0,0,1,100.0,no,no
 BA,yes,no,no,White,Male,,yes,yes,2.0,yes,no,no,no,no,112.0,4.0,6.0,yes,no,no,yes,74,73,81.0,55.0,69.66666666666667,yes,5,1.0,0,2,0,100.0,no,no
 BA,yes,no,no,Black/Black British African,Male,,yes,no,3.0,yes,no,no,no,yes,128.0,4.0,4.0,yes,no,no,no,65,64,63.0,71.0,66.0,yes,4,2.0,0,1,2,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,no,no,5.0,yes,no,,no,yes,84.0,4.0,4.0,yes,yes,no,no,71,62,47.0,63.0,57.333333333333336,yes,4,2.0,0,0,1,100.0,no,no
+BA,yes,no,no,White,Male,yes,no,no,5.0,yes,no,,no,yes,84.0,4.0,4.0,yes,yes,no,no,71,62,47.0,63.0,57.333333333333336,yes,4,2.0,0,0,1,100.0,no,no
 BA,yes,no,no,White,Male,no,no,no,4.0,yes,no,no,no,yes,109.0,4.0,4.0,yes,no,no,no,90,46,74.0,84.0,68.0,yes,5,1.0,0,4,0,100.0,no,no
 BA,yes,no,no,White,Female,no,no,no,1.0,yes,no,,no,yes,148.0,4.0,6.0,yes,yes,no,yes,88,71,82.0,65.0,72.66666666666667,yes,4,2.0,0,1,1,100.0,no,no
 BA,yes,no,no,White,Male,yes,yes,yes,3.0,yes,no,no,no,yes,168.0,4.0,5.0,no,yes,no,no,97,52,41.0,54.0,49.0,yes,5,1.0,0,1,1,100.0,no,no
@@ -709,9 +709,9 @@ ba,yes,no,yes,Black/Black British African,Female,no,yes,no,5.0,yes,no,no,no,no,9
 ba,yes,no,yes,White,Female,no,yes,no,3.0,no,no,yes,no,no,,5.0,5.0,no,no,no,yes,62,70,49.0,53.0,57.333333333333336,yes,6,0.0,0,0,1,100.0,no,no
 ba,yes,no,no,Black/Black British African,Male,yes,,no,2.0,no,no,no,no,yes,80.0,4.0,6.0,yes,no,yes,yes,87,75,60.0,51.0,62.0,yes,3,3.0,0,1,2,100.0,no,no
 ba,yes,no,no,White,Female,yes,,no,4.0,yes,no,no,no,yes,102.0,5.0,3.0,no,yes,yes,,91,55,72.0,62.0,63.0,yes,6,0.0,0,0,1,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,,yes,4.0,yes,no,no,no,no,88.0,3.0,4.0,yes,no,no,no,96,62,46.0,34.0,47.333333333333336,no,3,3.0,4,1,0,66.66666666666667,no,no
+ba,yes,no,no,White,Male,yes,,yes,4.0,yes,no,no,no,no,88.0,3.0,4.0,yes,no,no,no,96,62,46.0,34.0,47.333333333333336,no,3,3.0,4,1,0,66.66666666666667,no,no
 ba,yes,no,no,White,Male,no,no,no,4.0,yes,no,no,no,no,106.0,,,no,yes,no,no,50,45,47.0,56.0,49.333333333333336,yes,1,5.0,0,2,1,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,,yes,4.0,yes,no,no,no,yes,96.0,6.0,4.0,no,no,no,no,67,80,84.0,59.0,74.33333333333333,yes,5,1.0,0,2,0,100.0,no,no
+ba,yes,no,no,White,Male,yes,,yes,4.0,yes,no,no,no,yes,96.0,6.0,4.0,no,no,no,no,67,80,84.0,59.0,74.33333333333333,yes,5,1.0,0,2,0,100.0,no,no
 ba,yes,no,no,Black/Black British African,Male,no,no,no,,no,no,yes,no,no,,,,no,no,yes,no,83,64,79.0,57.0,66.66666666666667,yes,6,0.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Female,yes,,yes,1.0,yes,no,no,no,yes,80.0,5.0,4.0,no,yes,yes,yes,72,84,47.0,82.0,71.0,yes,4,2.0,0,0,1,100.0,no,no
 ba,yes,no,yes,White,Male,no,no,yes,,no,no,yes,no,,,,,yes,,yes,yes,64,66,59.0,45.0,56.666666666666664,yes,3,3.0,0,3,1,100.0,yes,no
@@ -723,10 +723,10 @@ ba,yes,no,no,White,Female,no,no,no,,no,no,yes,no,no,88.0,,4.0,no,no,no,no,78,51,
 ba,yes,no,no,White,Female,no,no,no,4.0,yes,no,no,no,yes,112.0,5.0,4.0,yes,no,no,no,87,85,75.0,46.0,68.66666666666667,yes,4,2.0,0,1,0,100.0,no,no
 ba,yes,no,no,Asian,Female,yes,yes,no,3.0,yes,no,no,no,yes,112.0,5.0,3.0,no,yes,yes,no,96,85,40.0,48.0,57.666666666666664,yes,4,2.0,0,4,0,100.0,yes,no
 ba,yes,no,no,Asian,Female,yes,yes,no,3.0,yes,no,no,no,yes,162.0,6.0,6.0,no,yes,no,no,93,51,50.0,69.0,56.666666666666664,yes,6,0.0,0,0,1,100.0,no,no
-ba,yes,no,no,White,Male,yes,no,no,4.0,yes,no,no,no,no,84.0,5.0,5.0,no,yes,yes,no,42,42,46.0,,44.0,yes,1,5.0,0,2,2,100.0,no,yes
+ba,yes,no,no,White,Male,yes,no,no,2.0,yes,no,no,no,no,84.0,5.0,5.0,no,yes,yes,no,42,42,46.0,,44.0,yes,1,5.0,0,2,2,100.0,no,yes
 ba,yes,no,no,Other ethnic background,Female,no,no,no,,yes,no,yes,no,no,104.0,,,yes,no,no,no,80,51,51.0,55.0,52.333333333333336,yes,4,2.0,0,0,1,100.0,no,no
 ba,yes,no,no,White,Male,no,no,no,5.0,yes,no,no,no,yes,99.0,,,no,no,yes,no,87,58,81.0,51.0,63.333333333333336,yes,6,0.0,0,0,0,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,no,no,5.0,yes,no,no,no,yes,96.0,4.0,4.0,no,yes,yes,no,81,65,71.0,46.0,60.666666666666664,yes,3,3.0,0,0,2,100.0,no,no
+ba,yes,no,no,White,Male,yes,no,no,5.0,yes,no,no,no,yes,96.0,4.0,4.0,no,yes,yes,no,81,65,71.0,46.0,60.666666666666664,yes,3,3.0,0,0,2,100.0,no,no
 ba,yes,no,no,Asian,Male,yes,no,no,3.0,yes,no,no,no,yes,96.0,4.0,5.0,yes,no,no,no,92,44,61.0,66.0,57.0,yes,3,3.0,0,4,2,100.0,yes,no
 ba,yes,no,no,White,Female,yes,yes,yes,4.0,yes,no,no,no,no,96.0,5.0,5.0,yes,no,yes,no,40,39,,,39.0,no,3,0.0,1,0,1,16.666666666666668,no,yes
 ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,114.0,3.0,4.0,no,yes,yes,no,60,72,60.0,70.0,67.33333333333333,yes,6,0.0,0,0,0,100.0,no,no
@@ -743,7 +743,7 @@ ba,yes,no,no,Black/Black British African,Female,no,no,no,5.0,no,no,no,yes,yes,11
 ba,yes,no,no,White,Male,no,no,no,2.0,yes,no,no,no,no,101.0,5.0,5.0,yes,,yes,yes,50,46,57.0,66.0,56.333333333333336,yes,3,3.0,0,0,1,100.0,no,no
 ba,yes,no,no,White,Female,yes,no,yes,5.0,yes,no,no,no,no,103.0,5.0,4.0,no,yes,yes,no,42,45,72.0,55.0,57.333333333333336,yes,5,1.0,0,1,0,100.0,no,no
 ba,yes,no,no,White,Male,yes,yes,no,2.0,yes,no,no,no,yes,114.0,5.0,6.0,no,yes,no,yes,89,83,82.0,45.0,70.0,yes,3,3.0,0,3,1,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,no,yes,5.0,yes,no,no,no,yes,98.0,4.0,4.0,no,yes,yes,no,81,45,72.0,65.0,60.666666666666664,yes,4,2.0,0,2,1,100.0,no,no
+ba,yes,no,no,White,Male,yes,no,yes,5.0,yes,no,no,no,yes,98.0,4.0,4.0,no,yes,yes,no,81,45,72.0,65.0,60.666666666666664,yes,4,2.0,0,2,1,100.0,no,no
 ba,yes,yes,no,Other ethnic background,Female,yes,no,yes,4.0,yes,yes,no,no,yes,103.0,,,no,yes,yes,yes,74,85,81.0,45.0,70.33333333333333,yes,4,2.0,0,0,1,100.0,no,no
 ba,yes,no,no,Other ethnic background,Male,no,no,no,,no,no,no,no,no,99.0,5.0,4.0,yes,,yes,no,84,80,50.0,54.0,61.333333333333336,yes,4,2.0,0,1,1,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,no,5.0,yes,no,no,no,yes,111.0,8.0,5.0,yes,no,yes,no,79,66,51.0,53.0,56.666666666666664,yes,3,3.0,0,0,0,100.0,no,no
@@ -776,12 +776,12 @@ BA,yes,no,no,Black/Black British African,Female,no,no,no,5.0,no,no,yes,no,no,89.
 BA,yes,no,no,White,Male,yes,no,no,4.0,yes,no,no,no,yes,103.0,4.0,5.0,yes,no,no,,84,62,53.0,68.0,61.0,yes,4,2.0,0,0,1,100.0,no,no
 BA,yes,no,no,Asian,Female,yes,no,no,2.0,no,no,no,no,yes,128.0,4.0,4.0,no,yes,no,yes,90,75,49.0,78.0,67.33333333333333,yes,6,0.0,0,0,0,100.0,no,no
 BA,yes,yes,no,Asian,Male,yes,yes,no,,no,no,no,no,no,91.0,,,no,no,no,no,64,63,55.0,42.0,53.333333333333336,yes,4,2.0,0,0,0,100.0,yes,no
-BA,yes,no,no,Asian,Male,yes,yes,yes,4.0,no,no,no,no,yes,128.0,4.0,5.0,no,yes,no,no,89,83,79.0,44.0,68.66666666666667,yes,5,1.0,0,4,1,100.0,yes,no
-BA,yes,no,no,Asian,Male,yes,yes,yes,5.0,yes,no,no,no,no,82.0,3.0,3.0,no,yes,no,no,52,49,56.0,70.0,58.333333333333336,yes,5,1.0,0,2,0,100.0,no,no
+BA,yes,no,no,White,Male,yes,yes,yes,4.0,no,no,no,no,yes,128.0,4.0,5.0,no,yes,no,no,89,83,79.0,44.0,68.66666666666667,yes,5,1.0,0,4,1,100.0,yes,no
+BA,yes,no,no,White,Male,yes,yes,yes,5.0,yes,no,no,no,no,82.0,3.0,3.0,no,yes,no,no,52,49,56.0,70.0,58.333333333333336,yes,5,1.0,0,2,0,100.0,no,no
 BA,yes,yes,no,Black/Black British African,Male,yes,yes,no,4.0,yes,no,no,no,yes,84.0,4.0,4.0,yes,no,no,no,68,49,79.0,83.0,70.33333333333333,yes,5,1.0,0,4,2,100.0,no,no
 BA,yes,yes,no,White,Male,no,no,yes,,no,no,no,no,no,127.0,,5.0,no,no,no,no,85,59,63.0,71.0,64.33333333333333,yes,3,3.0,0,3,2,100.0,no,no
 BA,yes,no,no,Asian,Female,no,no,yes,,no,no,yes,no,no,120.0,4.0,4.0,yes,no,no,no,87,75,74.0,46.0,65.0,yes,3,3.0,0,4,2,100.0,yes,no
-BA,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,no,96.0,4.0,5.0,no,yes,no,,50,50,62.0,60.0,57.333333333333336,yes,4,2.0,0,1,0,100.0,no,no
+BA,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,no,96.0,4.0,5.0,no,yes,no,,50,50,62.0,60.0,57.333333333333336,yes,4,2.0,0,1,0,100.0,no,no
 BA,yes,no,no,White,Male,yes,yes,yes,1.0,yes,no,no,no,no,82.0,,,no,no,yes,,100,74,40.0,51.0,55.0,yes,5,1.0,0,0,1,100.0,no,no
 BA,yes,no,no,Black/Black British African,Female,yes,no,no,2.0,yes,no,no,no,no,117.0,,,no,yes,yes,yes,73,69,82.0,43.0,64.66666666666667,yes,6,0.0,0,0,1,100.0,no,no
 BA,yes,no,no,Other ethnic background,Female,no,yes,no,3.0,no,no,no,no,no,153.0,9.0,8.0,no,no,no,,68,52,56.0,35.0,47.666666666666664,no,2,4.0,2,3,1,33.333333333333336,no,no
@@ -797,7 +797,7 @@ BA,yes,no,no,White,Male,no,no,yes,1.0,yes,,yes,no,no,125.0,3.0,4.0,yes,no,yes,no
 BA,yes,no,no,Black/Black British African,Female,no,no,no,3.0,yes,yes,no,no,no,104.0,6.0,7.0,yes,no,no,yes,51,50,75.0,63.0,62.666666666666664,yes,6,0.0,0,0,0,100.0,no,no
 BA,yes,no,no,Asian,Male,yes,no,yes,3.0,no,,no,no,yes,128.0,4.0,4.0,no,yes,no,no,96,68,78.0,61.0,69.0,yes,4,2.0,0,1,1,100.0,no,no
 BA,yes,no,no,White,Male,yes,no,no,4.0,yes,,no,no,yes,80.0,4.0,4.0,yes,no,no,no,97,45,46.0,51.0,47.333333333333336,yes,2,4.0,0,4,0,100.0,yes,no
-BA,yes,no,no,White,Male,yes,,no,4.0,yes,,no,no,no,102.0,3.0,4.0,yes,yes,yes,no,54,33,,,33.0,no,3,1.0,4,0,0,66.66666666666667,no,yes
+BA,yes,no,no,White,Male,yes,,no,2.0,yes,,no,no,no,102.0,3.0,4.0,yes,yes,yes,no,54,33,,,33.0,no,3,1.0,4,0,0,66.66666666666667,no,yes
 BA,yes,no,no,Other ethnic background,Male,yes,no,yes,4.0,yes,,no,no,yes,123.0,3.0,4.0,no,yes,no,no,72,80,55.0,55.0,63.333333333333336,yes,3,3.0,0,3,0,100.0,no,no
 BA,yes,no,yes,White,Male,no,no,no,3.0,no,no,yes,no,no,120.0,,,yes,,no,yes,95,74,81.0,41.0,65.33333333333333,yes,4,2.0,0,2,2,100.0,yes,no
 BA,yes,no,no,White,Male,no,no,yes,5.0,no,no,no,no,yes,144.0,4.0,4.0,no,yes,no,no,90,82,82.0,56.0,73.33333333333333,yes,6,0.0,0,0,1,100.0,no,no
@@ -807,12 +807,12 @@ BA,yes,no,no,White,Female,no,no,no,3.0,no,no,yes,no,no,,8.0,7.0,yes,,no,no,75,41
 BA,yes,no,yes,White,Male,no,no,no,5.0,yes,no,yes,no,no,152.0,,,yes,,no,yes,89,77,43.0,44.0,54.666666666666664,yes,3,3.0,0,3,0,100.0,yes,no
 BA,yes,no,no,White,Female,yes,,no,1.0,yes,no,no,no,no,168.0,8.0,7.0,yes,no,yes,yes,67,54,77.0,73.0,68.0,yes,6,0.0,0,0,1,100.0,no,no
 BA,yes,no,no,Black/Black British African,Male,no,,,2.0,no,no,no,yes,no,108.0,3.0,2.0,yes,no,no,yes,44,35,,,35.0,no,5,,3,1,2,50.0,no,yes
-BA,yes,no,no,Asian,Female,yes,yes,yes,4.0,yes,no,no,no,yes,120.0,5.0,4.0,yes,no,yes,no,62,81,56.0,79.0,72.0,yes,4,2.0,0,1,0,100.0,no,no
+BA,yes,no,no,White,Female,yes,yes,yes,4.0,yes,no,no,no,yes,120.0,5.0,4.0,yes,no,yes,no,62,81,56.0,79.0,72.0,yes,4,2.0,0,1,0,100.0,no,no
 BA,yes,no,no,Asian,Female,no,no,,3.0,no,no,yes,no,no,128.0,,,yes,no,yes,no,84,68,40.0,81.0,63.0,yes,3,3.0,0,3,0,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,yes,no,4.0,yes,no,no,no,yes,101.0,5.0,5.0,no,yes,no,no,76,74,51.0,80.0,68.33333333333333,yes,4,2.0,0,0,0,100.0,no,no
+BA,yes,no,no,White,Male,yes,yes,no,4.0,yes,no,no,no,yes,101.0,5.0,5.0,no,yes,no,no,76,74,51.0,80.0,68.33333333333333,yes,4,2.0,0,0,0,100.0,no,no
 BA,yes,yes,no,Black/Black British African,Female,no,yes,no,,no,no,yes,no,no,,,,yes,no,yes,no,86,56,43.0,76.0,58.333333333333336,yes,5,1.0,0,1,1,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,no,yes,4.0,yes,no,no,no,yes,96.0,5.0,5.0,yes,no,no,no,81,84,46.0,48.0,59.333333333333336,yes,4,2.0,0,2,2,100.0,yes,no
-BA,yes,no,no,Asian,Female,yes,yes,no,3.0,yes,no,no,no,no,96.0,4.0,3.0,yes,no,no,no,41,35,,,35.0,no,4,2.0,1,1,1,16.666666666666668,no,yes
+BA,yes,no,no,White,Male,yes,no,yes,4.0,yes,no,no,no,yes,96.0,5.0,5.0,yes,no,no,no,81,84,46.0,48.0,59.333333333333336,yes,4,2.0,0,2,2,100.0,yes,no
+BA,yes,no,no,Asian,Female,yes,yes,no,1.0,yes,no,no,no,no,96.0,4.0,3.0,yes,no,no,no,41,35,,,35.0,no,4,2.0,1,1,1,16.666666666666668,no,yes
 BA,yes,no,no,White,Male,yes,no,yes,5.0,yes,no,no,no,yes,122.0,3.0,,no,no,yes,no,89,65,41.0,78.0,61.333333333333336,yes,5,1.0,0,1,2,100.0,no,no
 BA,yes,no,no,White,Female,yes,yes,yes,1.0,yes,no,no,no,no,106.0,6.0,5.0,yes,no,no,no,75,40,55.0,58.0,51.0,yes,3,3.0,0,2,2,100.0,no,no
 BA,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,no,112.0,5.0,4.0,yes,no,no,no,58,44,84.0,36.0,54.666666666666664,no,5,1.0,3,1,1,50.0,yes,no
@@ -825,14 +825,14 @@ BA,yes,no,no,Other ethnic background,Male,no,no,yes,,no,no,yes,no,no,,,,yes,,no,
 BA,yes,no,no,Other ethnic background,Male,yes,yes,no,3.0,yes,no,no,no,yes,84.0,4.0,3.0,no,yes,yes,no,91,43,73.0,65.0,60.333333333333336,yes,5,1.0,0,4,0,100.0,no,no
 BA,yes,no,no,Asian,Female,yes,yes,no,3.0,yes,no,no,no,yes,84.0,5.0,4.0,no,yes,yes,no,95,70,68.0,41.0,59.666666666666664,yes,5,1.0,0,1,0,100.0,no,no
 BA,yes,no,no,White,Male,no,no,no,4.0,yes,no,no,no,yes,82.0,4.0,3.0,yes,,no,no,92,59,61.0,78.0,66.0,yes,5,1.0,0,0,0,100.0,no,no
-BA,yes,no,no,White,Female,yes,yes,no,4.0,yes,no,no,no,yes,144.0,4.0,4.0,no,yes,no,no,45,49,38.0,,43.5,no,3,3.0,4,2,2,66.66666666666667,no,yes
+BA,yes,no,no,White,Female,yes,yes,no,2.0,yes,no,no,no,yes,144.0,4.0,4.0,no,yes,no,no,45,49,38.0,,43.5,no,3,3.0,4,2,2,66.66666666666667,no,yes
 BA,yes,no,no,White,Male,yes,yes,no,1.0,yes,no,no,no,no,72.0,5.0,5.0,yes,,yes,yes,74,71,82.0,81.0,78.0,yes,5,1.0,0,1,2,100.0,no,no
 BA,yes,no,yes,White,Female,yes,yes,no,2.0,yes,no,no,no,yes,104.0,4.0,3.0,yes,yes,yes,yes,51,36,,,36.0,no,4,2.0,4,0,0,66.66666666666667,no,yes
-BA,yes,no,yes,Asian,Male,yes,no,yes,5.0,yes,no,no,no,yes,80.0,7.0,6.0,yes,,no,yes,87,78,65.0,83.0,75.33333333333333,yes,6,0.0,0,0,1,100.0,no,no
+BA,yes,no,yes,White,Male,yes,no,yes,5.0,yes,no,no,no,yes,80.0,7.0,6.0,yes,,no,yes,87,78,65.0,83.0,75.33333333333333,yes,6,0.0,0,0,1,100.0,no,no
 BA,yes,no,yes,White,Male,yes,yes,yes,5.0,yes,no,no,no,no,128.0,5.0,5.0,no,yes,yes,yes,68,68,70.0,69.0,69.0,yes,4,2.0,0,1,1,100.0,no,no
 BA,yes,no,no,Asian,Male,yes,no,no,,no,no,no,no,no,96.0,5.0,5.0,yes,,yes,no,63,69,47.0,38.0,51.333333333333336,no,5,1.0,3,0,1,50.0,yes,no
 BA,yes,no,no,Black/Black British African,Female,no,no,no,,no,no,yes,no,no,,,,yes,,no,no,86,72,60.0,76.0,69.33333333333333,yes,4,2.0,0,0,0,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,yes,no,4.0,yes,no,no,no,yes,96.0,6.0,4.0,yes,no,no,no,52,42,35.0,,38.5,no,3,1.0,5,0,0,83.33333333333333,no,yes
+BA,yes,no,no,Asian,Male,yes,yes,no,2.0,yes,no,no,no,yes,96.0,6.0,4.0,yes,no,no,no,52,42,35.0,,38.5,no,3,1.0,5,0,0,83.33333333333333,no,yes
 BA,yes,no,no,Black/Black British African,Male,yes,yes,yes,5.0,yes,no,no,no,yes,114.0,3.0,7.0,yes,yes,yes,no,82,61,44.0,33.0,46.0,no,3,3.0,3,0,0,50.0,no,no
 BA,yes,no,no,White,Male,yes,yes,yes,5.0,yes,no,no,no,yes,96.0,6.0,5.0,yes,no,yes,no,47,42,38.0,,40.0,no,4,2.0,3,1,0,50.0,no,yes
 BA,yes,no,no,White,Male,yes,yes,yes,3.0,yes,no,no,no,yes,146.0,4.0,4.0,no,yes,no,no,95,47,49.0,50.0,48.666666666666664,yes,3,3.0,0,0,1,100.0,no,no
@@ -843,15 +843,15 @@ BA,yes,no,no,White,Male,yes,yes,yes,2.0,no,no,no,no,no,80.0,4.0,5.0,yes,no,yes,y
 BA,yes,no,no,White,Male,yes,yes,no,4.0,yes,no,no,no,yes,128.0,4.0,4.0,no,yes,yes,no,74,51,56.0,84.0,63.666666666666664,yes,5,1.0,0,1,0,100.0,no,no
 BA,yes,no,no,Black/Black British African,Male,no,yes,no,4.0,yes,yes,no,yes,yes,80.0,4.0,4.0,no,yes,no,yes,61,63,53.0,66.0,60.666666666666664,yes,3,3.0,0,1,2,100.0,no,no
 BA,yes,no,no,Black/Black British African,Male,yes,yes,no,4.0,yes,no,no,no,yes,120.0,5.0,4.0,no,yes,no,no,92,57,57.0,46.0,53.333333333333336,yes,3,3.0,0,2,0,100.0,yes,no
-BA,yes,no,no,Asian,Male,yes,no,yes,4.0,yes,no,no,no,yes,88.0,4.0,4.0,no,yes,yes,no,60,58,80.0,40.0,59.333333333333336,yes,4,2.0,0,4,0,100.0,yes,no
+BA,yes,no,no,White,Male,yes,no,yes,4.0,yes,no,no,no,yes,88.0,4.0,4.0,no,yes,yes,no,60,58,80.0,40.0,59.333333333333336,yes,4,2.0,0,4,0,100.0,yes,no
 BA,yes,no,no,Asian,Female,no,no,no,,yes,no,no,no,no,87.0,,,yes,no,yes,no,70,49,42.0,66.0,52.333333333333336,yes,3,3.0,0,2,1,100.0,no,no
 BA,yes,no,no,White,Male,yes,yes,yes,3.0,yes,no,no,no,yes,114.0,7.0,5.0,yes,no,yes,no,95,76,85.0,80.0,80.33333333333333,yes,3,3.0,0,2,1,100.0,no,no
 BA,yes,yes,no,White,Female,yes,yes,yes,5.0,yes,no,no,no,yes,98.0,,,yes,no,yes,no,53,44,36.0,,40.0,no,3,3.0,2,2,0,33.333333333333336,no,yes
-BA,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,112.0,3.0,5.0,yes,yes,yes,no,96,50,59.0,37.0,48.666666666666664,no,5,1.0,5,0,0,83.33333333333333,no,no
+BA,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,112.0,3.0,5.0,yes,yes,yes,no,96,50,59.0,37.0,48.666666666666664,no,5,1.0,5,0,0,83.33333333333333,no,no
 BA,yes,no,no,White,Male,yes,yes,yes,5.0,yes,no,no,no,yes,128.0,3.0,5.0,yes,no,yes,no,74,64,49.0,33.0,48.666666666666664,no,3,3.0,3,2,1,50.0,no,no
 BA,yes,no,no,White,Male,yes,,yes,2.0,yes,no,no,no,no,112.0,4.0,6.0,,no,no,yes,89,69,73.0,51.0,64.33333333333333,yes,3,3.0,0,1,2,100.0,no,no
 BA,yes,no,no,Black/Black British African,Male,yes,,no,3.0,yes,no,no,no,yes,128.0,4.0,4.0,,no,no,no,100,59,43.0,74.0,58.666666666666664,yes,6,0.0,0,0,0,100.0,no,no
-BA,yes,no,no,Asian,Male,yes,no,no,5.0,yes,no,no,no,yes,84.0,4.0,4.0,,yes,no,no,81,51,74.0,59.0,61.333333333333336,yes,5,1.0,0,1,1,100.0,no,no
+BA,yes,no,no,White,Male,yes,no,no,5.0,yes,no,no,no,yes,84.0,4.0,4.0,,yes,no,no,81,51,74.0,59.0,61.333333333333336,yes,5,1.0,0,1,1,100.0,no,no
 BA,yes,no,no,White,Male,no,no,no,4.0,yes,no,no,no,yes,91.0,4.0,4.0,,no,no,no,87,47,80.0,46.0,57.666666666666664,yes,3,3.0,0,3,0,100.0,no,no
 BA,yes,no,no,White,Female,no,no,no,1.0,yes,no,no,no,yes,148.0,4.0,6.0,,yes,no,yes,87,61,78.0,37.0,58.666666666666664,no,3,3.0,3,0,0,50.0,yes,no
 BA,yes,no,no,White,Male,yes,,yes,3.0,yes,no,no,no,yes,168.0,4.0,5.0,no,yes,no,no,65,82,59.0,39.0,60.0,no,4,2.0,2,0,0,33.333333333333336,yes,no
@@ -865,9 +865,9 @@ ba,yes,no,yes,Black/Black British African,Female,no,,no,5.0,yes,no,no,no,no,107.
 ba,yes,no,yes,White,Female,no,yes,no,3.0,no,no,yes,no,no,,5.0,5.0,no,no,no,yes,72,77,44.0,77.0,66.0,yes,3,3.0,0,1,1,100.0,no,no
 ba,yes,no,no,Black/Black British African,Male,yes,yes,no,2.0,no,no,no,no,yes,80.0,4.0,6.0,yes,no,yes,yes,94,75,47.0,75.0,65.66666666666667,yes,3,3.0,0,1,1,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,no,4.0,yes,no,no,no,yes,102.0,5.0,3.0,no,yes,yes,no,61,45,58.0,72.0,58.333333333333336,yes,3,3.0,0,3,2,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,no,88.0,3.0,4.0,,no,no,no,77,45,54.0,75.0,58.0,yes,3,3.0,0,3,1,100.0,no,no
+ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,no,88.0,3.0,4.0,,no,no,no,77,45,54.0,75.0,58.0,yes,3,3.0,0,3,1,100.0,no,no
 ba,yes,no,no,White,Female,no,yes,yes,4.0,yes,no,no,no,no,115.0,,,no,yes,no,no,50,42,57.0,82.0,60.333333333333336,yes,4,2.0,0,2,0,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,96.0,6.0,4.0,no,no,no,no,71,78,45.0,49.0,57.333333333333336,yes,3,3.0,0,2,0,100.0,no,no
+ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,96.0,6.0,4.0,no,no,no,no,71,78,45.0,49.0,57.333333333333336,yes,3,3.0,0,2,0,100.0,no,no
 ba,yes,no,no,Black/Black British African,Male,no,no,no,,no,no,yes,no,no,,,,no,no,yes,,75,77,50.0,64.0,63.666666666666664,yes,5,1.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,yes,1.0,yes,no,no,no,yes,80.0,5.0,4.0,no,yes,yes,yes,72,45,62.0,71.0,59.333333333333336,yes,6,0.0,0,0,1,100.0,no,no
 ba,yes,no,yes,White,Male,no,no,yes,,no,no,yes,no,,,,,,no,yes,yes,68,60,73.0,67.0,66.66666666666667,yes,3,3.0,0,0,0,100.0,no,no
@@ -879,10 +879,10 @@ ba,yes,no,no,White,Female,no,no,no,,no,no,yes,no,no,88.0,,4.0,no,,no,no,62,74,54
 ba,yes,no,no,White,Female,no,no,no,4.0,yes,no,no,no,yes,112.0,5.0,4.0,,,no,no,76,69,47.0,56.0,57.333333333333336,yes,3,3.0,0,0,1,100.0,no,no
 ba,yes,no,no,Asian,Female,yes,,no,3.0,yes,no,no,no,yes,112.0,5.0,3.0,no,yes,yes,no,72,45,57.0,58.0,53.333333333333336,yes,5,1.0,0,2,1,100.0,no,no
 ba,yes,no,no,Asian,Female,yes,,no,3.0,yes,no,no,no,yes,162.0,6.0,6.0,no,yes,no,no,83,85,79.0,45.0,69.66666666666667,yes,4,2.0,0,3,0,100.0,no,no
-ba,yes,no,no,White,Male,yes,no,no,4.0,yes,no,no,no,no,84.0,5.0,5.0,no,yes,yes,no,46,38,,,38.0,no,3,0.0,3,0,1,50.0,no,yes
+ba,yes,no,no,White,Male,yes,no,no,2.0,yes,no,no,no,no,84.0,5.0,5.0,no,yes,yes,no,46,38,,,38.0,no,3,0.0,3,0,1,50.0,no,yes
 ba,yes,no,no,Other ethnic background,Female,no,no,no,,yes,no,yes,no,no,104.0,,,,,no,no,80,66,51.0,58.0,58.333333333333336,yes,3,3.0,0,1,0,100.0,no,no
 ba,yes,no,no,White,Male,no,no,no,5.0,yes,no,no,no,yes,96.0,,,no,,yes,no,99,75,47.0,51.0,57.666666666666664,yes,3,3.0,0,2,0,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,no,no,5.0,yes,no,no,no,yes,96.0,4.0,4.0,no,yes,yes,no,63,67,79.0,49.0,65.0,yes,3,3.0,0,3,1,100.0,no,no
+ba,yes,no,no,White,Male,yes,no,no,5.0,yes,no,no,no,yes,96.0,4.0,4.0,no,yes,yes,no,63,67,79.0,49.0,65.0,yes,3,3.0,0,3,1,100.0,no,no
 ba,yes,no,no,Asian,Male,yes,no,no,3.0,yes,no,no,no,yes,96.0,4.0,5.0,,,no,no,61,85,80.0,59.0,74.66666666666667,yes,4,2.0,0,1,1,100.0,no,no
 ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,no,96.0,5.0,5.0,yes,no,yes,no,53,39,,,39.0,no,2,0.0,2,0,0,33.333333333333336,no,yes
 ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,114.0,3.0,4.0,no,yes,yes,no,87,66,48.0,64.0,59.333333333333336,yes,3,3.0,0,1,1,100.0,no,no
@@ -891,7 +891,7 @@ ba,yes,no,no,White,Male,yes,yes,yes,1.0,yes,no,no,no,yes,104.0,5.0,4.0,yes,no,ye
 ba,yes,no,no,White,Female,yes,yes,yes,4.0,yes,no,no,no,yes,90.0,2.0,4.0,yes,no,no,no,99,70,67.0,70.0,69.0,yes,3,3.0,0,1,1,100.0,no,no
 ba,yes,no,no,White,Male,yes,yes,yes,5.0,yes,no,no,no,yes,98.0,5.0,4.0,no,yes,yes,no,61,47,76.0,,61.5,yes,6,0.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,no,4.0,yes,no,no,no,yes,84.0,6.0,4.0,yes,no,yes,no,97,41,71.0,,56.0,yes,3,3.0,0,2,1,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,,no,4.0,yes,no,no,no,yes,136.0,4.0,5.0,no,yes,no,no,75,52,62.0,,57.0,yes,3,3.0,0,2,2,100.0,no,no
+ba,yes,no,no,White,Male,yes,,no,4.0,yes,no,no,no,yes,136.0,4.0,5.0,no,yes,no,no,75,52,62.0,,57.0,yes,3,3.0,0,2,2,100.0,no,no
 ba,yes,no,no,Black/Black British African,Male,yes,,yes,4.0,yes,no,no,no,yes,91.0,4.0,4.0,no,yes,yes,no,65,73,70.0,,71.5,yes,4,2.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Female,no,no,yes,5.0,yes,no,no,no,yes,92.0,,,no,no,yes,no,79,66,32.0,,49.0,no,6,0.0,4,1,0,66.66666666666667,yes,no
 ba,yes,no,no,White,Male,yes,no,yes,5.0,yes,no,no,no,yes,88.0,4.0,6.0,no,yes,yes,no,77,60,39.0,,49.5,no,4,2.0,5,0,1,83.33333333333333,yes,no
@@ -899,7 +899,7 @@ ba,yes,no,no,Black/Black British African,Female,no,no,no,5.0,no,no,no,yes,yes,11
 ba,yes,no,no,White,Male,no,no,no,2.0,yes,no,no,no,no,101.0,5.0,5.0,yes,no,yes,yes,49,44,81.0,,62.5,yes,5,1.0,0,1,1,100.0,no,no
 ba,yes,no,no,White,Male,yes,no,no,5.0,yes,no,no,no,no,103.0,5.0,4.0,no,yes,yes,no,40,49,70.0,,68.0,yes,6,0.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Male,yes,,no,2.0,yes,no,no,no,yes,114.0,5.0,6.0,no,yes,no,yes,92,40,80.0,,60.0,yes,3,3.0,0,1,0,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,no,yes,5.0,yes,no,no,no,yes,98.0,4.0,4.0,no,yes,yes,no,88,41,61.0,,51.0,yes,5,1.0,0,3,1,100.0,no,no
+ba,yes,no,no,White,Male,yes,no,yes,5.0,yes,no,no,no,yes,98.0,4.0,4.0,no,yes,yes,no,88,41,61.0,,51.0,yes,5,1.0,0,3,1,100.0,no,no
 ba,yes,yes,no,Other ethnic background,Female,yes,no,yes,4.0,yes,yes,no,no,yes,103.0,,,no,yes,yes,yes,100,46,48.0,0.0,47.0,yes,4,2.0,0,0,0,100.0,no,no
 ba,yes,no,no,Other ethnic background,Male,no,no,no,,no,no,no,no,no,99.0,5.0,4.0,yes,no,yes,no,78,50,55.0,,52.5,yes,4,2.0,0,1,0,100.0,no,no
 ba,yes,no,no,White,Female,yes,,no,5.0,yes,no,no,no,yes,111.0,8.0,5.0,yes,no,yes,no,80,72,52.0,,62.0,yes,3,3.0,0,4,0,100.0,yes,no
@@ -912,7 +912,7 @@ ba,yes,no,yes,White,Male,yes,yes,yes,4.0,yes,no,no,no,no,106.0,2.0,5.0,no,yes,ye
 ba,yes,no,no,White,Female,no,no,no,3.0,yes,no,no,no,no,103.0,5.0,6.0,yes,,yes,no,94,85,41.0,,63.0,yes,3,3.0,0,3,1,100.0,no,no
 ba,yes,no,no,Other ethnic background,Male,yes,no,no,4.0,yes,no,no,no,yes,112.0,5.0,4.0,no,yes,no,no,85,51,84.0,,67.5,yes,5,1.0,0,1,0,100.0,no,no
 ba,yes,no,no,White,Female,no,yes,yes,1.0,yes,no,no,no,yes,128.0,4.0,6.0,,,yes,no,87,57,53.0,,55.0,yes,5,1.0,0,0,0,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,95.0,5.0,4.0,no,yes,yes,no,91,60,48.0,,54.0,yes,3,3.0,0,1,1,100.0,no,no
+ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,95.0,5.0,4.0,no,yes,yes,no,91,60,48.0,,54.0,yes,3,3.0,0,1,1,100.0,no,no
 ba,yes,no,no,Other ethnic background,Female,yes,yes,no,4.0,yes,no,no,no,yes,100.0,4.0,3.0,no,yes,yes,no,78,85,70.0,,77.5,yes,4,2.0,0,0,1,100.0,no,no
 ba,yes,no,no,Black/Black British African,Female,yes,yes,no,3.0,yes,no,no,no,no,113.0,5.0,3.0,no,yes,no,no,100,75,44.0,,59.5,yes,3,3.0,0,0,1,100.0,no,no
 ba,yes,no,no,White,Male,no,no,yes,3.0,no,no,no,no,no,98.0,,8.0,,,no,no,83,83,57.0,,70.0,yes,5,1.0,0,2,2,100.0,no,no
@@ -920,15 +920,15 @@ ba,yes,no,no,Asian,Female,no,no,yes,,no,no,yes,no,no,100.0,6.0,5.0,no,no,no,no,6
 ba,yes,no,yes,White,Male,no,no,no,3.0,yes,no,no,no,yes,95.0,2.0,2.0,no,yes,no,yes,69,66,53.0,,59.5,yes,3,3.0,0,1,1,100.0,no,no
 ba,yes,no,no,Other ethnic background,Female,no,yes,no,,no,no,yes,no,no,114.0,,,no,no,no,no,78,85,83.0,,84.0,yes,3,3.0,0,2,1,100.0,no,no
 ba,yes,no,no,Asian,Female,no,no,no,,no,no,yes,no,no,106.0,4.0,4.0,,no,no,no,87,50,41.0,,45.5,yes,2,4.0,0,4,1,100.0,yes,no
-ba,yes,no,no,Asian,Male,yes,yes,yes,5.0,no,no,no,no,yes,104.0,5.0,6.0,,no,no,no,63,40,37.0,,38.5,no,6,0.0,4,0,1,66.66666666666667,yes,no
+ba,yes,no,no,White,Male,yes,yes,yes,5.0,no,no,no,no,yes,104.0,5.0,6.0,,no,no,no,63,40,37.0,,38.5,no,6,0.0,4,0,1,66.66666666666667,yes,no
 ba,yes,no,no,White,Female,no,no,yes,5.0,yes,no,no,no,no,107.0,6.0,7.0,no,yes,no,no,42,42,38.0,,40.0,no,3,3.0,4,2,1,66.66666666666667,no,yes
 ba,yes,no,no,White,Male,yes,yes,no,3.0,yes,no,no,no,no,103.0,5.0,6.0,no,yes,yes,no,94,67,54.0,,60.5,yes,5,1.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,no,100.0,5.0,4.0,,no,yes,no,74,59,74.0,,66.5,yes,4,2.0,0,0,0,100.0,no,no
 ba,yes,no,no,Other ethnic background,Female,no,no,yes,3.0,yes,no,no,no,no,113.0,3.0,6.0,no,yes,no,no,64,41,72.0,,56.5,yes,3,3.0,0,3,0,100.0,no,no
 ba,yes,no,no,White,Male,no,no,yes,2.0,yes,no,no,no,yes,118.0,5.0,5.0,,no,yes,yes,99,47,73.0,,60.0,yes,6,0.0,0,0,1,100.0,no,no
 ba,yes,no,no,White,Female,yes,yes,no,5.0,yes,no,no,no,no,102.0,4.0,4.0,,no,yes,no,74,53,70.0,,61.5,yes,3,3.0,0,3,1,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,no,yes,5.0,yes,no,no,no,yes,108.0,4.0,4.0,no,yes,yes,no,66,44,56.0,,50.0,yes,3,3.0,0,2,0,100.0,no,no
-ba,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,109.0,4.0,4.0,,no,yes,no,96,75,39.0,,57.0,no,3,3.0,4,2,2,66.66666666666667,yes,no
+ba,yes,no,no,White,Male,yes,no,yes,5.0,yes,no,no,no,yes,108.0,4.0,4.0,no,yes,yes,no,66,44,56.0,,50.0,yes,3,3.0,0,2,0,100.0,no,no
+ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,109.0,4.0,4.0,,no,yes,no,96,75,39.0,,57.0,no,3,3.0,4,2,2,66.66666666666667,yes,no
 ba,yes,no,no,White,Male,no,yes,yes,1.0,yes,no,no,no,yes,152.0,6.0,4.0,,no,yes,,90,40,42.0,45.0,43.0,yes,5,1.0,0,1,0,100.0,no,no
 ba,yes,no,no,White,Male,no,no,no,,no,no,no,no,no,104.0,6.0,5.0,,no,yes,,73,67,61.0,,64.0,yes,3,3.0,0,2,0,100.0,no,no
 ba,yes,no,no,White,Male,no,no,yes,4.0,yes,no,no,no,no,101.0,6.0,6.0,no,yes,no,,83,84,58.0,,71.0,yes,4,2.0,0,2,0,100.0,no,no
@@ -944,7 +944,7 @@ ba,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,106.0,4.0,4.0,yes,no,no
 ba,yes,no,no,White,Male,yes,yes,yes,5.0,yes,no,no,no,no,103.0,5.0,5.0,yes,no,no,no,66,62,45.0,,53.5,yes,4,2.0,0,1,1,100.0,no,no
 ba,yes,no,no,Asian,Female,yes,yes,yes,3.0,yes,no,no,no,no,108.0,7.0,6.0,yes,no,no,no,85,80,33.0,,56.5,no,5,1.0,3,1,1,50.0,yes,no
 ba,yes,no,no,Other ethnic background,Male,no,no,yes,2.0,yes,no,no,no,no,96.0,5.0,6.0,no,yes,no,yes,65,43,79.0,,61.0,yes,3,3.0,0,4,0,100.0,yes,no
-ba,yes,no,no,Asian,Female,yes,no,yes,5.0,yes,no,no,no,yes,99.0,7.0,5.0,yes,no,yes,no,88,80,75.0,,77.5,yes,3,3.0,0,0,0,100.0,no,no
+ba,yes,no,no,White,Female,yes,no,yes,5.0,yes,no,no,no,yes,99.0,7.0,5.0,yes,no,yes,no,88,80,75.0,,77.5,yes,3,3.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Female,yes,,yes,5.0,yes,no,no,no,no,125.0,8.0,9.0,yes,no,yes,no,84,62,66.0,,64.0,yes,3,3.0,0,2,2,100.0,no,no
 ba,yes,no,no,White,Female,yes,,no,1.0,yes,no,no,no,no,102.0,4.0,4.0,yes,no,yes,yes,78,65,83.0,,74.0,yes,6,0.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Male,no,no,yes,4.0,yes,no,no,no,yes,104.0,8.0,4.0,no,no,yes,no,74,52,65.0,,58.5,yes,5,1.0,0,0,0,100.0,no,no
@@ -956,7 +956,7 @@ ba,yes,no,no,Other ethnic background,Female,yes,,no,3.0,yes,no,no,no,yes,109.0,8
 ba,yes,no,no,Black/Black British African,Female,yes,,no,1.0,yes,no,no,no,no,102.0,7.0,4.0,yes,no,yes,yes,100,65,63.0,,64.0,yes,6,0.0,0,0,0,100.0,no,no
 ba,yes,no,no,White,Female,no,no,no,4.0,yes,no,no,no,no,105.0,6.0,6.0,yes,no,no,no,60,56,70.0,,63.0,yes,5,1.0,0,1,0,100.0,no,no
 ba,yes,no,yes,White,Male,no,no,yes,3.0,yes,no,no,,yes,120.0,4.0,6.0,yes,no,yes,yes,65,40,40.0,,40.0,yes,3,3.0,0,1,1,100.0,no,yes
-ba,yes,no,no,Asian,Female,yes,,yes,4.0,yes,no,no,no,yes,119.0,6.0,5.0,yes,no,no,no,73,60,82.0,,71.0,yes,6,0.0,0,0,1,100.0,no,no
+ba,yes,no,no,White,Female,yes,,yes,4.0,yes,no,no,no,yes,119.0,6.0,5.0,yes,no,no,no,73,60,82.0,,71.0,yes,6,0.0,0,0,1,100.0,no,no
 ba,yes,no,no,White,Male,yes,yes,no,2.0,yes,no,,,no,106.0,5.0,5.0,yes,no,,yes,80,40,51.0,,45.5,yes,4,2.0,0,0,1,100.0,no,no
 ba,yes,no,no,Asian,Female,yes,no,no,3.0,yes,no,no,no,no,109.0,5.0,4.0,,yes,no,no,84,69,79.0,,74.0,yes,6,0.0,0,0,0,100.0,no,no
 ba,yes,no,yes,Black/Black British African,Female,yes,yes,no,2.0,yes,no,no,no,no,107.0,5.0,6.0,,no,yes,yes,86,64,35.0,,49.5,no,2,4.0,4,5,3,66.66666666666667,yes,no
@@ -969,7 +969,7 @@ ba,yes,no,yes,White,Female,no,yes,yes,4.0,no,no,yes,no,no,104.0,4.0,4.0,,no,yes,
 ,yes,no,no,White,Male,no,no,yes,5.0,yes,no,no,no,yes,107.0,4.0,4.0,no,yes,yes,no,74,64,,,64.0,yes,3,3.0,0,0,2,100.0,no,no
 BA Business Manangement Enterpreneurship and Innovation,no,no,no,Asian,Male,no,yes,yes,4.0,yes,no,no,no,no,88.0,3.0,4.0,,no,no,no,67,71,,,71.0,yes,6,0.0,0,0,1,100.0,no,no
 BA Business Management,no,no,no,White,Male,no,no,yes,4.0,yes,no,no,no,no,87.0,,,no,yes,no,no,50,46,,,46.0,yes,6,0.0,0,0,1,100.0,no,yes
-BA Business Management Enterpreneurship and Innovation,no,no,no,Asian,Male,yes,yes,no,4.0,yes,no,no,no,yes,96.0,6.0,4.0,no,no,yes,no,75,59,,,59.0,yes,3,3.0,0,1,1,100.0,no,yes
+BA Business Management Enterpreneurship and Innovation,no,no,no,Asian,Male,yes,yes,no,2.0,yes,no,no,no,yes,96.0,6.0,4.0,no,no,yes,no,75,59,,,59.0,yes,3,3.0,0,1,1,100.0,no,yes
 BA Business Management,no,yes,no,White,Female,no,no,no,1.0,no,no,yes,no,no,,,,no,no,yes,no,59,51,,,51.0,yes,6,0.0,0,0,1,100.0,no,yes
 BA Business Management Enterpreneurship and Innovation,no,no,no,Asian,Male,yes,yes,yes,1.0,yes,no,no,no,yes,80.0,5.0,4.0,no,yes,yes,yes,72,74,,,74.0,yes,6,0.0,0,0,1,100.0,no,no
 BA Business Management Enterpreneurship and Innovation,yes,no,no,Asian,Male,yes,no,yes,,no,no,yes,no,,,,,,no,yes,no,66,73,,,73.0,yes,3,3.0,0,1,1,100.0,no,no
@@ -978,43 +978,43 @@ BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,yes,
 BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,yes,no,,3.0,yes,no,no,no,no,144.0,4.0,5.0,no,yes,yes,no,53,50,,,37.0,yes,2,0.0,0,2,2,100.0,no,no
 BA Business Management,yes,no,no,White,Female,yes,no,no,,no,no,yes,no,no,,,,no,no,no,no,96,70,,,70.0,yes,5,1.0,0,4,0,100.0,no,no
 Ba Business Management Finance,yes,no,no,White,Female,yes,no,no,,no,no,yes,no,no,88.0,,4.0,no,,no,no,76,54,,,54.0,yes,3,3.0,0,1,1,100.0,no,no
-BA Business Management,yes,yes,no,Black/Black British African,Female,yes,no,no,4.0,yes,no,no,no,yes,112.0,5.0,4.0,,,no,no,100,35,,,35.0,no,3,1.0,2,1,1,33.333333333333336,no,yes
+BA Business Management,yes,yes,no,Black/Black British African,Female,yes,no,no,2.0,yes,no,no,no,yes,112.0,5.0,4.0,,,no,no,100,35,,,35.0,no,3,1.0,2,1,1,33.333333333333336,no,yes
 BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,yes,,no,3.0,yes,no,no,no,yes,112.0,5.0,3.0,no,yes,yes,no,79,52,,,52.0,yes,5,1.0,0,1,0,100.0,no,no
 BA Business Management Marketing,yes,no,no,White,Female,yes,,no,3.0,yes,no,no,no,yes,162.0,6.0,6.0,no,yes,no,no,93,76,,,76.0,yes,5,1.0,0,4,1,100.0,no,no
-BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,no,no,no,4.0,yes,no,no,no,no,84.0,5.0,5.0,no,yes,yes,no,60,45,,,45.0,yes,1,5.0,0,2,0,100.0,no,yes
+BA Business Management Enterpreneurship and Innovation,yes,no,no,White,Male,no,no,no,2.0,yes,no,no,no,no,84.0,5.0,5.0,no,yes,yes,no,60,45,,,45.0,yes,1,5.0,0,2,0,100.0,no,yes
 BA Business Management International Business,yes,no,no,White,Female,yes,no,no,1.0,yes,no,yes,no,no,104.0,,,,,no,no,98,61,,,61.0,yes,5,1.0,0,1,1,100.0,no,no
 Ba Business Management Finance,yes,yes,no,White,Male,yes,no,no,5.0,yes,no,no,no,yes,114.0,,,no,,yes,no,83,64,,,64.0,yes,3,3.0,0,0,1,100.0,no,no
 BA Business Management,yes,no,no,White,Male,yes,no,no,5.0,yes,no,no,no,yes,96.0,4.0,4.0,no,yes,yes,no,75,70,,,70.0,yes,3,3.0,0,2,2,100.0,no,no
-BA Business Management,yes,no,no,Asian,Female,yes,no,no,3.0,yes,no,no,no,yes,96.0,4.0,5.0,yes,,no,no,20,30,,,30.0,no,3,2.0,2,2,1,33.333333333333336,no,yes
+BA Business Management,yes,no,no,Asian,Female,yes,no,no,2.0,yes,no,no,no,yes,96.0,4.0,5.0,yes,,no,no,20,30,,,30.0,no,3,2.0,2,2,1,33.333333333333336,no,yes
 BA Business Management International Business,yes,no,no,Asian,Male,no,,yes,4.0,yes,no,no,no,no,96.0,5.0,5.0,yes,no,yes,no,25,31,,,31.0,no,1,1.0,2,3,1,33.333333333333336,no,yes
-BA Business Management International Business,yes,no,no,Black/Black British African,Male,yes,yes,no,4.0,yes,no,no,no,yes,114.0,3.0,4.0,no,yes,yes,no,75,60,,,60.0,yes,4,2.0,0,0,0,100.0,no,yes
-Ba Business Management Finance,yes,yes,yes,Black/Black British African,Female,yes,yes,no,4.0,yes,no,no,no,yes,84.0,6.0,4.0,yes,no,yes,yes,61,39,,,39.0,no,6,0.0,4,0,1,66.66666666666667,no,yes
+BA Business Management International Business,yes,no,no,Black/Black British African,Male,yes,yes,no,2.0,yes,no,no,no,yes,114.0,3.0,4.0,no,yes,yes,no,75,60,,,60.0,yes,4,2.0,0,0,0,100.0,no,yes
+Ba Business Management Finance,yes,yes,yes,Black/Black British African,Female,yes,yes,no,2.0,yes,no,no,no,yes,84.0,6.0,4.0,yes,no,yes,yes,61,39,,,39.0,no,6,0.0,4,0,1,66.66666666666667,no,yes
 BA Business Management Enterpreneurship and Innovation,yes,yes,no,White,Female,yes,yes,yes,1.0,yes,no,no,no,yes,104.0,5.0,4.0,yes,no,yes,yes,85,76,,,76.0,yes,4,2.0,0,1,0,100.0,no,no
-BA Business Management International Business,yes,no,no,Asian,Male,yes,yes,yes,4.0,yes,no,no,no,yes,91.0,2.0,4.0,,no,no,no,97,82,,,82.0,yes,3,3.0,0,3,1,100.0,no,no
-BA Business Management,yes,no,no,Black/Black British African,Male,yes,yes,no,5.0,yes,no,no,no,yes,98.0,5.0,4.0,no,yes,yes,no,60,43,,,43.0,yes,4,2.0,0,0,1,100.0,no,yes
-MBA,no,yes,no,Asian,Female,,yes,no,4.0,yes,no,no,no,yes,84.0,6.0,4.0,,no,yes,no,42,35,,,35.0,no,3,1.0,2,0,1,33.333333333333336,no,yes
+BA Business Management International Business,yes,no,no,White,Male,yes,yes,yes,4.0,yes,no,no,no,yes,91.0,2.0,4.0,,no,no,no,97,82,,,82.0,yes,3,3.0,0,3,1,100.0,no,no
+BA Business Management,yes,no,no,Black/Black British African,Male,yes,yes,no,1.0,yes,no,no,no,yes,98.0,5.0,4.0,no,yes,yes,no,60,43,,,43.0,yes,4,2.0,0,0,1,100.0,no,yes
+MBA,no,yes,no,Asian,Female,,yes,no,2.0,yes,no,no,no,yes,84.0,6.0,4.0,,no,yes,no,42,35,,,35.0,no,3,1.0,2,0,1,33.333333333333336,no,yes
 MBA,no,yes,no,Asian,Male,,yes,no,4.0,yes,no,no,no,yes,136.0,4.0,5.0,no,yes,no,no,85,47,,,47.0,yes,3,3.0,0,4,0,100.0,yes,no
-MBA,no,no,no,Asian,Male,,yes,no,4.0,yes,no,no,no,yes,91.0,4.0,4.0,no,yes,yes,no,45,36,,,36.0,no,2,0.0,3,3,0,50.0,no,yes
+MBA,no,no,no,Asian,Male,,yes,no,2.0,yes,no,no,no,yes,91.0,4.0,4.0,no,yes,yes,no,45,36,,,36.0,no,2,0.0,3,3,0,50.0,no,yes
 MBA,no,no,no,Asian,Female,,no,yes,5.0,yes,no,no,no,yes,92.0,,,no,no,yes,no,84,45,,,45.0,yes,3,3.0,0,3,2,100.0,no,no
 MBA,no,no,no,Asian,Female,,no,yes,5.0,yes,no,no,no,yes,88.0,4.0,6.0,no,yes,yes,no,80,72,,,72.0,yes,4,2.0,0,1,1,100.0,no,no
-MBA,no,yes,no,Asian,Male,no,no,no,5.0,no,no,no,yes,yes,118.0,6.0,,yes,no,yes,yes,47,32,,,32.0,no,3,0.0,3,1,0,50.0,no,yes
+MBA,no,yes,no,Asian,Male,no,no,no,1.0,no,no,no,yes,yes,118.0,6.0,,yes,no,yes,yes,47,32,,,32.0,no,3,0.0,3,1,0,50.0,no,yes
 MBA,no,no,no,White,Male,yes,no,,2.0,yes,no,no,no,no,101.0,5.0,5.0,yes,no,yes,yes,65,50,,,50.0,yes,1,5.0,0,2,2,100.0,no,yes
-MBA,no,yes,no,Asian,Male,yes,no,yes,5.0,yes,no,no,no,no,103.0,5.0,4.0,no,yes,yes,no,51,41,,,20.5,yes,4,2.0,0,0,1,100.0,no,no
+MBA,no,yes,no,White,Male,yes,no,yes,5.0,yes,no,no,no,no,103.0,5.0,4.0,no,yes,yes,no,51,41,,,20.5,yes,4,2.0,0,0,1,100.0,no,no
 MBA,no,yes,no,Asian,Male,yes,yes,,2.0,yes,no,,no,yes,114.0,5.0,6.0,no,yes,no,yes,72,77,,,77.0,yes,3,3.0,0,1,2,100.0,no,no
 MBA,no,yes,no,Black/Black British African,Male,yes,no,yes,5.0,yes,no,,no,yes,98.0,4.0,4.0,no,yes,yes,no,55,41,,,41.0,yes,4,2.0,0,0,0,100.0,no,yes
-MBA,no,no,no,Other Black Background,Female,yes,no,yes,4.0,yes,yes,,no,yes,103.0,,,no,yes,yes,yes,42,36,0.0,0.0,36.0,no,3,2.0,2,0,1,33.333333333333336,no,yes
+MBA,no,no,no,Black/Black British African,Female,yes,no,yes,4.0,yes,yes,,no,yes,103.0,,,no,yes,yes,yes,42,36,0.0,0.0,36.0,no,3,2.0,2,0,1,33.333333333333336,no,yes
 BA,yes,no,no,White,Male,no,no,no,,no,no,no,no,no,99.0,5.0,4.0,yes,no,yes,no,68,69,,,69.0,yes,3,3.0,0,0,0,100.0,no,no
 BA,yes,no,no,White,Male,no,yes,no,5.0,yes,no,no,no,yes,111.0,8.0,5.0,yes,no,yes,no,86,58,,,58.0,yes,6,0.0,0,1,0,100.0,no,no
 BA,yes,no,no,Asian,Male,no,yes,yes,4.0,yes,no,no,no,no,125.0,8.0,7.0,no,yes,yes,no,85,41,,,41.0,yes,5,1.0,0,0,0,100.0,no,no
 BA,yes,yes,no,Asian,Male,yes,no,no,1.0,yes,no,,no,yes,96.0,6.0,7.0,yes,no,yes,yes,77,82,,,82.0,yes,4,2.0,0,0,0,100.0,no,no
-BA,yes,no,no,Black/Black British African,Male,yes,yes,no,3.0,yes,no,,no,yes,100.0,4.0,4.0,no,yes,yes,no,40,33,,,33.0,no,2,2.0,3,3,3,50.0,no,yes
+BA,yes,no,no,Black/Black British African,Male,yes,yes,no,2.0,yes,no,,no,yes,100.0,4.0,4.0,no,yes,yes,no,40,33,,,33.0,no,2,2.0,3,3,3,50.0,no,yes
 BA,yes,no,no,Black/Black British African,Male,yes,yes,yes,4.0,yes,no,,no,yes,111.0,5.0,6.0,yes,no,no,no,81,38,,,38.0,no,6,0.0,2,0,1,33.333333333333336,no,yes
-BA,yes,no,no,Asian,Male,yes,yes,yes,5.0,yes,no,no,no,yes,109.0,5.0,6.0,no,yes,yes,no,82,81,,,81.0,yes,6,0.0,0,0,1,100.0,no,no
+BA,yes,no,no,White,Male,yes,yes,yes,5.0,yes,no,no,no,yes,109.0,5.0,6.0,no,yes,yes,no,82,81,,,81.0,yes,6,0.0,0,0,1,100.0,no,no
 BA,yes,yes,no,White,Male,no,yes,yes,4.0,yes,no,no,no,no,106.0,2.0,5.0,no,yes,yes,no,88,79,,,79.0,yes,3,3.0,0,0,2,100.0,no,no
 BA,yes,yes,no,Black/Black British African,Female,no,no,no,3.0,yes,no,no,no,no,103.0,5.0,6.0,yes,no,yes,no,74,77,,,77.0,yes,3,3.0,0,5,1,100.0,yes,no
 BA,yes,yes,yes,White,Male,no,no,no,4.0,yes,no,no,no,yes,112.0,5.0,4.0,no,yes,no,yes,64,52,,,52.0,yes,4,2.0,0,1,1,100.0,no,no
 BA,yes,yes,no,Black/Black British African,Female,yes,yes,yes,4.0,yes,no,no,no,yes,95.0,5.0,4.0,no,yes,yes,no,64,46,,,46.0,yes,4,2.0,0,1,0,100.0,no,no
-BA,yes,no,no,Asian,Female,yes,,no,4.0,yes,no,no,no,yes,100.0,4.0,3.0,no,yes,yes,no,88,72,,,72.0,yes,3,3.0,0,1,2,100.0,no,no
+BA,yes,no,no,White,Female,yes,,no,4.0,yes,no,no,no,yes,100.0,4.0,3.0,no,yes,yes,no,88,72,,,72.0,yes,3,3.0,0,1,2,100.0,no,no
 BA,yes,yes,no,Asian,Male,no,,no,3.0,yes,no,no,no,no,113.0,5.0,3.0,no,yes,yes,no,45,41,,,41.0,yes,3,3.0,0,2,2,100.0,no,yes
 BA,yes,no,no,Black/Black British African,Female,no,no,yes,3.0,no,no,no,no,no,98.0,,8.0,yes,no,no,no,70,44,,,44.0,yes,3,3.0,0,0,2,100.0,no,no
 BA,yes,no,no,Black/Black British African,Female,no,no,yes,,no,no,yes,no,no,100.0,6.0,5.0,no,no,no,no,66,61,,,61.0,yes,3,3.0,0,3,3,100.0,no,no
@@ -1027,8 +1027,8 @@ BA,yes,yes,no,White,Male,yes,,no,3.0,yes,no,no,no,no,103.0,5.0,6.0,no,yes,yes,no
 BA,yes,no,no,,Male,yes,,yes,4.0,yes,,no,no,no,100.0,5.0,4.0,yes,no,yes,no,70,53,,,53.0,yes,6,0.0,0,0,1,100.0,no,no
 BA,yes,yes,no,,Female,no,no,yes,3.0,yes,,no,no,no,113.0,3.0,6.0,no,yes,no,no,64,73,,,73.0,yes,3,3.0,0,2,1,100.0,no,no
 BA,yes,yes,no,,Male,yes,no,yes,2.0,yes,,no,no,yes,118.0,5.0,5.0,yes,no,yes,yes,96,68,,,68.0,yes,3,3.0,0,1,0,100.0,no,no
-BA,yes,no,no,Other ethnic background,Female,no,yes,no,5.0,yes,,no,no,no,102.0,4.0,4.0,yes,no,yes,no,55,45,,,45.0,yes,6,0.0,0,0,1,100.0,no,yes
+BA,yes,no,no,Other ethnic background,Female,no,yes,no,1.0,yes,,no,no,no,102.0,4.0,4.0,yes,no,yes,no,55,45,,,45.0,yes,6,0.0,0,0,1,100.0,no,yes
 BA,yes,no,no,,Male,yes,yes,yes,4.0,yes,no,no,no,yes,109.0,4.0,4.0,yes,no,yes,no,66,77,,,77.0,yes,6,0.0,0,0,0,100.0,no,no
-BA,no,yes,no,Asian,Female,no,no,no,3.0,no,no,no,no,no,104.0,6.0,5.0,yes,no,yes,no,42,33,,,33.0,no,1,1.0,2,4,1,33.333333333333336,yes,yes
+BA,no,yes,no,Asian,Female,no,no,no,1.0,no,no,no,no,no,104.0,6.0,5.0,yes,no,yes,no,42,33,,,33.0,no,1,1.0,2,4,1,33.333333333333336,yes,yes
 BA,no,yes,no,Other ethnic background,Male,no,no,yes,4.0,yes,no,no,no,no,101.0,6.0,6.0,no,yes,no,no,60,76,,,76.0,yes,6,0.0,0,0,0,100.0,no,no
 BA,no,yes,no,Other ethnic background,Female,no,no,no,,no,no,yes,no,no,104.0,8.0,4.0,no,no,no,no,71,80,,,80.0,yes,6,0.0,0,0,0,100.0,no,no
