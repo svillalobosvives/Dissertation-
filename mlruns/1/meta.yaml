@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Sarita/Documents/Dissertation/Dissertation-/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: clf-default-name
