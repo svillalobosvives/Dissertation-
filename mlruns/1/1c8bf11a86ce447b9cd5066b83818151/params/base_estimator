@@ -1,0 +1,2 @@
+AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=0.05,
+                   n_estimators=300, random_state=6976)
